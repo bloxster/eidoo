@@ -1,5 +1,8 @@
 .. image:: https://i.imgur.com/AQQDYZH.png
 
+Inizia da qui
+===============
+
 **eidoo** è un wallet di criptovalute nato nel 2017 che offre una serie di funzionalità tra cui:
 
 - Un **wallet HD** sicuro “non custodial” (non depositario, i fondi rimangono sempre nelle mani dell’utente), multi-asset per **Bitcoin**, **Litecoin**, **Ethereum** e tutti i token **ERC20** e **ERC223**, nonchè i token non fungibili **NFT**, e  che si può collegare tramite WalletConnect a una vasta gamma di dApp di Ethereum;
