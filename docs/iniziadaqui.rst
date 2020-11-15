@@ -1,7 +1,7 @@
 .. image:: https://i.imgur.com/AQQDYZH.png
 
 Inizia da qui
-===============
+=============
 
 **eidoo** è un wallet di criptovalute nato nel 2017 che offre una serie di funzionalità tra cui:
 
@@ -20,7 +20,7 @@ La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale
 Helpdesk di Eidoo
 
 I social di Eidoo
-------------------
+-----------------
 Seguite Eidoo sui social per rimanere sempre aggiornati.
 
 - Telegram https://t.me/eidoocryptoita
