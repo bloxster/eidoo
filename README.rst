@@ -1,8 +1,6 @@
 Guida completa di Eidoo wallet in italiano
 ==========================================
-Questo manuale non rappresenta la guida ufficiale di Eidoo wallet. Questo Wiki è stato creato in maniera indipendente dal team di Eidoo al solo scopo di diffondere l'utilizzo della blockchain e della finanza decentralizzata.
-
-Questo manuale non rappresenta la guida ufficiale di Eidoo wallet. Questo Wiki è stato creato in maniera indipendente dal team di Eidoo al solo scopo di diffondere l'utilizzo della blockchain e della finanza decentralizzata.
+Questo manuale non rappresenta la guida ufficiale di Eidoo wallet. Questo Wiki è stato creato in maniera indipendente dal team di Eidoo al solo scopo di diffondere l'utilizzo della blockchain e della finanza decentralizzata su Ethereum.
 
 **Si declina ogni responsabilità dovuta ad un utilizzo errato del wallet e degli strumenti connessi, o da informazioni errate in questa guida.**
 
