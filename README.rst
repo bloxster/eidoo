@@ -1,41 +1,14 @@
-Template
-========
+Guida completa di Eidoo wallet in italiano
+==========================================
+Questo manuale non rappresenta la guida ufficiale di Eidoo wallet. Questo Wiki è stato creato in maniera indipendente dal team di Eidoo al solo scopo di diffondere l'utilizzo della blockchain e della finanza decentralizzata.
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Questo manuale non rappresenta la guida ufficiale di Eidoo wallet. Questo Wiki è stato creato in maniera indipendente dal team di Eidoo al solo scopo di diffondere l'utilizzo della blockchain e della finanza decentralizzata.
 
-Look how easy it is to use:
+**Si declina ogni responsabilità dovuta ad un utilizzo errato del wallet e degli strumenti connessi, o da informazioni errate in questa guida.**
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+Si consiglia gli utenti di fare sempre delle prove con piccole quantità di denaro e di fare le proprie ricerche per approfondire l'utilizzo della blockchain di Ethereum e dei protocolli di DeFi.
 
-Features
---------
+La maggior parte delle criptovalute e valute virtuali è soggetta a un’estrema volatilità dei prezzi. Se si decide di acquistare criptovalute o prodotti finanziari che hanno come sottostanti tali asset digitali, vi è il rischio concreto di perdere una parte o il totale del proprio investimento.
+Si consiglia gli utenti di fare sempre delle prove con piccole quantità di denaro e di fare le proprie ricerche per approfondire l'utilizzo della blockchain di Ethereum e dei protocolli di DeFi.
 
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+La maggior parte delle criptovalute e valute virtuali è soggetta a un’estrema volatilità dei prezzi. Se si decide di acquistare criptovalute o prodotti finanziari che hanno come sottostanti tali asset digitali, vi è il rischio concreto di perdere una parte o il totale del proprio investimento.
