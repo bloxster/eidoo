@@ -26,7 +26,10 @@ Criptovalute Supportate
 
 La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. Per informazioni più approfondite sui prodotti di Eidoo visitate anche l’Help Center di Eidoo a questo indirizzo:
 
-Helpdesk di Eidoo
+HelpDesk Ufficiale di Eidoo
+---------------------------
+
+https://eidoohelp.zendesk.com/hc/it
 
 I social di Eidoo
 -----------------
