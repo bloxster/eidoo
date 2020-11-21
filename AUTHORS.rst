@@ -1,7 +1,4 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
-
+* Jerimum
