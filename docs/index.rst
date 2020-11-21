@@ -28,9 +28,11 @@ Indice dei contenuti:
 .. toctree::
    :maxdepth: 2
    :glob:
-   01_download.rst
-   19_social.rst
-   20_disclaimer.rst
+   02_download
+   03_schermata_principale
+   04_gestione
+   19_social
+   20_disclaimer
    *
 
 
