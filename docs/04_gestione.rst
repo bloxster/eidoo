@@ -21,13 +21,22 @@ Visualizzazione dell’indirizzo di deposito di una delle criptovalute supportat
 -------------------------------------------------------------------------------
 
 La schermata principale **“I tuoi asset”** mostra il vostro saldo. Essendo il wallet appena creato è chiaramente vuoto: 0 BTC, 0 ETH, 0 LTC, etc. etc.
-Le valute supportate da Eidoo sono attualmente **Bitcoin**, **Litecoin**, **Ether **o token **ERC20** (PNT, USDT, DAI, BAT, etc. etc.`` `_ <https://eidoo.io/erc20-tokens-list>`_``qui`_ <https://eidoo.io/erc20-tokens-list>`_ una lista completa). Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo (o *address*).
-**IMPORTANTE: prima di depositare qualsiasi asset fate una prova con un importo minimo per verificare che l’address sia corretto e che non ci siano problemi.**Cliccate in alto a destra il QR code per visualizzare il menu per la scelta della criptovaluta da depositare.
+Le valute supportate da Eidoo sono attualmente **Bitcoin**, **Litecoin**, **Ether** o token **ERC20** quali PNT, USDT, DAI, BAT, etc. etc.+
+
+`qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa.
+
+Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo (o *address*).
+
+**IMPORTANTE: prima di depositare qualsiasi asset fate una prova con un importo minimo per verificare che l’address sia corretto e che non ci siano problemi.**
+
+Cliccate in alto a destra il QR code per visualizzare il menu per la scelta della criptovaluta da depositare.
+
 Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH,** e vi si aprirà una schermata che rappresenta il saldo di ETH e lo storico delle transazioni, nel caso ce ne siano.
 
 .. image:: ./images/kix.mw5xrn33nyrn.png
 
 
+`Apple Store <https://itunes.apple.com/app/eidoo/id1279896253?mt=8>`_                     
 
 
 
