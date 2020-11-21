@@ -14,10 +14,22 @@ Eidoo Wallet
 - La possibilità di **acquistare criptovalute tramite deposito bancario** o carta di credito, e di vendere criptovalute e ricevere l’importo corrispondente tramite bonifico SEPA;
 - **EidooCARD**, una carta di debito per spendere le criptovalute nel proprio wallet, con diversi livelli di benefici e payback;
 - **EidooID**, uno strumento per soddisfare i requisiti KYC/AML necessari.
+Criptovalute Supportate
+-----------------------
+
+* Bitcoin (BTC)
+* Litecoin (LTC)
+* Ethereum (ETH)
+   * token ERC20
+   * token ERC23
+   * token ERC721 (NFT, token non fungibili)
 
 La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. Per informazioni più approfondite sui prodotti di Eidoo visitate anche l’Help Center di Eidoo a questo indirizzo:
 
-Helpdesk di Eidoo
+HelpDesk Ufficiale di Eidoo
+---------------------------
+
+https://eidoohelp.zendesk.com/hc/it
 
 I social di Eidoo
 -----------------
