@@ -37,8 +37,9 @@ Indice dei contenuti:
 .. toctree::
    :maxdepth: 2
    :glob:
-   01_download
-   20_disclaimer
+   01_download.rst
+   19_social.rst
+   20_disclaimer.rst
    *
 
 
