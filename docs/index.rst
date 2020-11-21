@@ -24,22 +24,13 @@ Criptovalute Supportate
    * token ERC23
    * token ERC721 (NFT, token non fungibili)
 
-La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. Per informazioni più approfondite sui prodotti di Eidoo visitate anche l’Help Center di Eidoo a questo indirizzo:
+La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. 
 
 HelpDesk Ufficiale di Eidoo
 ---------------------------
+Per informazioni più approfondite sui prodotti di Eidoo visitate anche l’Help Center di Eidoo a questo indirizzo:
 
 https://eidoohelp.zendesk.com/hc/it
-
-I social di Eidoo
------------------
-Seguite Eidoo sui social per rimanere sempre aggiornati.
-
-- Telegram https://t.me/eidoocryptoita
-- Twitter  https://twitter.com/eidoo_io
-- Facebook https://www.facebook.com/eidoocrypto/
-- Linkedin https://www.linkedin.com/company/11232699/
-- Reddit   https://www.reddit.com/r/eidooapp/
 
 Indice dei contenuti:
 
