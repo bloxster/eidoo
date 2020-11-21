@@ -30,12 +30,13 @@ Indice dei contenuti
 .. toctree::
    :maxdepth: 2
    :glob:
-   02_download
-   03_schermata_principale
-   04_gestione
-   19_social
-   20_disclaimer
-   *
+   download
+   schermata_principale
+   gestione
+   social
+   disclaimer
+
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
