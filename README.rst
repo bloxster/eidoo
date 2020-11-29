@@ -14,7 +14,7 @@ Si consiglia gli utenti di fare sempre delle prove con piccole quantità di dena
 
 La maggior parte delle criptovalute e valute virtuali è soggetta a un’estrema volatilità dei prezzi. Se si decide di acquistare criptovalute o prodotti finanziari che hanno come sottostanti tali asset digitali, vi è il rischio concreto di perdere una parte o il totale del proprio investimento.
 
-Questo repository serve al solo scopo di poter rendere questa gioda pubblica e disponibile su ReadTheDocs.org al seguente indirizzo:
+Questo repository serve al solo scopo di poter rendere questa guida pubblica e disponibile su ReadTheDocs.org al seguente indirizzo:
 
 https://eidoo.readthedocs.io/
 
