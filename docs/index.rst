@@ -29,7 +29,7 @@ Indice dei contenuti
 
 .. toctree::
    :maxdepth: 2
-   :glob:
+   
    download
    schermata_principale
    gestione
