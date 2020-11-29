@@ -33,8 +33,23 @@ Indice dei contenuti
    download
    schermata_principale
    gestione
+   rubrica
+   hybrid_exchange
+   swap
+   ptoken
    social
    disclaimer
+   defi_exchange
+   walletconnect
+   dao_manager
+   kyc
+   crowd
+   fiat_ramp
+   card
+   impostazioni
+   social
+   disclaimer
+
 
 
 * :ref:`genindex`
