@@ -37,8 +37,6 @@ Indice dei contenuti
    hybrid_exchange
    swap
    ptoken
-   social
-   disclaimer
    defi_exchange
    walletconnect
    dao_manager
