@@ -8,14 +8,14 @@ Per installarlo sul vostro smartphone andate nei rispettivi store di Google Play
 
 
 .. image:: https://i.imgur.com/IeRhxEr.png
-    :width: 100px
+    :width: 200px
     :target: https://itunes.apple.com/app/eidoo/id1279896253?mt=8
     :align: center                 
     :alt: Apple Store
 
 
 .. image:: https://i.imgur.com/RqfxTBt.png
-    :width: 100px
+    :width: 200px
     :target: https://play.google.com/store/apps/details?id=io.eidoo.wallet.prodnet&hl=en_US&gl=US
     :align: center
     :alt: Google Play
