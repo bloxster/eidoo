@@ -27,7 +27,16 @@ Potete inserire il nome del vostro contatto e un indirizzo Ethereum, Bitcoin o L
 
 Potete salvare gli address ETH, BTC e LTC dello stesso contatto.
 
-Premete su “**SALVA CONTATTO**” per finalizzare l’inserimento di questo nuovo contatto.
- 
+Una volta riempiti i campi che vi interessano premete su “**SALVA CONTATTO**” per finalizzare l’inserimento di questo nuovo contatto.
 
- 
+.. image:: https://i.imgur.com/dTTRmQL.jpg
+    :width: 500px
+    :align: center
+
+Quando avrete popolato la vostra rubrica appariranno i vari vostri contatti in forma di elenco.
+
+.. image:: https://i.imgur.com/lxcV7bI.jpg
+    :width: 500px
+    :align: center
+
+
