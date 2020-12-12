@@ -62,7 +62,7 @@ Eidoo non supporta per la generazione di indirizzi con un importo predeterminato
     soggetti di cui vi fidate**.
 
 Tempi di deposito delle criptovalute
-====================================
+-------------------------------------------------------------------------------
 
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
 
@@ -77,7 +77,8 @@ Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset
 Lo storico delle transazioni di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
 
 Invio dei token e delle criptovalute supportate
-===============================================
+-------------------------------------------------------------------------------
+
 Una volta che nel wallet sono presenti dei fondi diventa possibile trasferirli ad altri address.
 Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che volete trasferire. L’immagine seguente mostra ad il wallet di ETH dopo diverse operazioni (le operazioni a 0 ETH sono operazioni con smart contract come quello dell’exchange di Eidoo).
 Per l’invio di ETH, dopo aver premuto **ETH **nella schermata principale. Cliccate sul tasto **Trasferisci**.
@@ -148,8 +149,28 @@ Una schermata di conferma apparirà quando la transazione sarà stata inviata al
     :align: center
 
 Token Non Fungibili NFT
-===============================================
+---------------------------
 
-Eidoo supporta anche i token non fungibili o NFT. Gli NFT sono lll
+Eidoo supporta anche i token NFT.
 
+.. note:: 
+    I token non fungibili (Non Fungible Tolens, NFT) sono elementi collezionabili all'interno della blockchain.
+    Ogni token NFT si riferisce a un singolo elemento con un certo valore. Rappresentano qualcosa di unico e quindi
+    non hanno il valore reciproco intercambiabile. In altre parole, nessun token non fungibile è lo stesso. Il
+    mercato dei token NFT è in pieno sviluppo e questa funzionalità di Eidoo unita alla possibilità di utilizzare altri servizi tramite  
+`WalletConnect <https://eidoo.readthedocs.io/it/latest/walletconnect.html#walletconnect-tutti-i-protocolli-a-portata-di-qr-code>`_ risulta molto utile.
+
+In particolare Eidoo supporta i token NFT su Ethereum. Per vedere i vostri NFT scorrete il banner centrale fino a quando non trovate "**NFT Manager**".
+
+.. image:: https://i.imgur.com/KJ9NIp2.jpg
+    :width: 500px
+    :align: center
+
+Cliccateci sopra e scegliete 
+
+.. image:: https://i.imgur.com/tOL7ZHd.jpg
+    :width: 500px
+    :align: center
+
+Cliccando su "**DISCOVER NFTs" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese sul sito di OpenSea, uno dei maggiori mercati di NFT.
 
