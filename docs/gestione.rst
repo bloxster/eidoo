@@ -16,7 +16,6 @@ Eidoo supporta le seguenti criptovalute:
    * token ERC23
    * token ERC721 (NFT, token non fungibili)
 
-
 Visualizzazione dell’indirizzo di deposito di una delle criptovalute supportate
 -------------------------------------------------------------------------------
 
