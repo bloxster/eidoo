@@ -39,7 +39,6 @@ Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**.
 .. image:: https://i.imgur.com/uHWDfKT.jpg
     :width: 500px
     :align: center
- 
 
 Cliccando su **AGGIUNGI FONDI** in basso al centro, o su Deposito in alto a sinistra visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
 
@@ -67,7 +66,11 @@ Tempi di deposito delle criptovalute
 
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
 
-Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer (``Etherscan`_ <https://etherscan.io/>`_,`` `_ <https://live.blockcypher.com/>`_``Blockcypher.com`_ <https://live.blockcypher.com/>`_ ).
+Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer come ad esempio `Etherscan <https://etherscan.io/>`_ per Ethereum o `Blockcypher <https://live.blockcypher.com/>`_ per Bitcoin.
+
+(``Etherscan`_ <https://etherscan.io/>`_,``
+
+`_ <https://live.blockcypher.com/>`_``Blockcypher.com`_ <https://live.blockcypher.com/>`_ ).
 
 Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da`` `_ <http://cryptonomist.com/>`_``Cryptonomist.com`_ <http://cryptonomist.com/>`_.
 
@@ -90,19 +93,11 @@ Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate ne
 
 .. image:: ./images/kix.rsjmm8846gmj.png
 
-
-
 Potete a questo punto **incollare l’indirizzo **che avete copiato precedentemente nella clipboard del vostro dispositivo scegliendo **Incolla**, o scannerizzare un **QRCode **con la fotocamera dello smartphone per acquisire direttamente l’indirizzo da un altro dispositivo cliccando su **Scannerizza un codice QR**. Questa funzione è molto utile per mandare importi ad un amico che ha una app sul telefono o a un sito web che visualizza il codice QR.
  
 Eidoo supporta anche gli **indirizzi ENS** come vitalik.eth, facili da ricordare e da inserire.
 
-
-
 .. image:: ./images/kix.tnzphp3duqfs.png
-
-
-
-
 
 Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato esadecimale, eliminando così ogni possibilità di errore umano.  Gli unici indirizzi che si possono inserire manualmente (INSERISCI L’INDIRIZZO) sono gli indirizzi ENS.
 Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra il quantitativo disponibile, cliccando su di esso invierete l’intero importo del wallet.
@@ -110,8 +105,6 @@ Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra i
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
 .. image:: ./images/kix.tn7do63ayeqr.png
-
-  
  
 Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una transazione di **priorità media**.
 In alternativa potete cliccare in alto a sinistra sul simbolo di equalizzazione e:
@@ -119,10 +112,9 @@ In alternativa potete cliccare in alto a sinistra sul simbolo di equalizzazione 
 
 .. image:: ./images/kix.rdncp7rv2q9c.png
 
-
-
 In questa schermata è presente anche una opzione avanzata per inserire una stringa nel campo **Data (hexadecimal)**. Non utilizzatela a meno che non sappiate quello che state facendo.
 Una volta inserite le informazioni, premete su **CONFERMA CON PASSWORD **se siete nella schermata di **Impostazioni Avanzate** o su **PROCEDI **se siete nella schermata **Trasferisci dal wallet personale.** 
+
 .. image:: ./images/kix.l9691otuxbio.png
 
 
@@ -143,7 +135,7 @@ Una schermata di conferma apparirà quando la transazione sarà stata inviata al
 .. image:: ./images/kix.n17h4kvffk3y.png
 
 
-Token nNon Fungibili NFT
+Token Non Fungibili NFT
 ===============================================
 
 Eidoo supporta anche i token non fungibili o NFT. Gli NFT sono lll
