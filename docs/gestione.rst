@@ -152,6 +152,40 @@ Una schermata di conferma apparirà quando la transazione sarà stata inviata al
     :width: 500px
     :align: center
 
+Storico delle proprie transazioni
+-----------------------------------
+
+Dalla schermata principale premete sulla criptovaluta di cui volete visualizzare la storia delle transazioni, ad esempio ETH. per vederne lo storico di tutte le operazioni.
+
+.. image:: https://i.imgur.com/saZSRgc.jpg
+    :width: 500px
+    :align: center
+
+Cliccando su ciascuna transazione visualizzerete i dettagli della stessa. Premendo invece su sul simbolo "**<**" in alto a sinistra tornerete alla
+schermata iniziale “**I tuoi asset**”.
+
+.. image:: https://i.imgur.com/06QyRa9.jpg
+    :width: 500px
+    :align: center
+
+Lo storico delle transazioni è di facile lettura grazie anche alle icone che vi permettono di capire immediatamente che tipo di transazioni sono e il
+loro stato:
+
+.. list-table:: 
+   :widths: 25 25
+   :header-rows: 1
+
+   * - Simbolo
+     - Tipo di Transazione
+   * - .. image:: https://i.imgur.com/JQuAe49.png
+     - Transazione in uscita in sospeso
+   * - .. image:: https://i.imgur.com/dIfvPuw.png
+     - Transazione in uscita in sospeso
+   * - .. image:: https://i.imgur.com/atHi2Hp.png
+     - Transazione in uscita da smart contract (ad es. scambio o swap)
+   * - .. image:: https://i.imgur.com/smfFRlU.png
+     - Transazione ricevuta
+
 Token Non Fungibili NFT
 ---------------------------
 
