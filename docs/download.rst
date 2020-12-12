@@ -40,6 +40,7 @@ Leggete i Termini di Servizio e scorrete la pagina fino in fondo, accettate prem
     :width: 500px
     :align: center
 
+
 Nel campo successivo dovrete inserire una password robusta e confermarla con un secondo inserimento.
 
 La password dovrà essere sicura, perché è quella che protegge l’accesso al vostro wallet e funziona anche da **password di spesa**. Inserite una password che ricorderete bene, poiché dovrete inserirla ogni qualvolta vorrete **accedere ad Eidoo** o fare una transazione.
@@ -54,10 +55,12 @@ Eidoo creerà un nuovo wallet e la relativa frase di recupero di 12 parole da co
 .. image:: https://i.imgur.com/vykkloW.jpg
     :width: 500px
     :align: center
+
     
 .. image:: https://i.imgur.com/hd2vBi2.jpg
     :width: 500px
     :align: center
+
 
 La schermata successiva mostra le 12 parole preselezionate da **Eidoo**. Immettete la password scelta precedentemente e cliccate su “**SBLOCCA**” per visualizzare la **Frase di backup** o **Frase di Recupero**.
  
@@ -66,10 +69,12 @@ Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi servir
 .. image:: https://i.imgur.com/bCAbcDI.png
     :width: 500px
     :align: center
+
     
 .. image:: https://i.imgur.com/wT1eUNq.png
     :width: 500px
     :align: center
+
 
 La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicemente *seed*) rappresenta la chiave privata del vostro wallet e va conservata con la massima cura. È fortemente sconsigliato catturare schermate che normalmente finiscono su sistemi insicuri nella gestione dei dati, e raccomandiamo assolutamente di NON salvare le parole su servizi CLOUD come Google Drive, Dropbox, etc. etc.
 
