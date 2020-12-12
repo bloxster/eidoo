@@ -80,7 +80,7 @@ La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicement
 
 **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
 
-.. image:: https://github.com/bloxster/eidoo/blob/master/images/image13.jpg
+.. image:: https://github.com/bloxster/eidoo/blob/master/images/image13.png
     :width: 500px
 
 Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle. 
