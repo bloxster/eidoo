@@ -1,7 +1,17 @@
 Rubrica dei Contatti
 ====================
 
-Nella barra dei comandi della schermata principale in fondo a destra cliccate sul pulsante Altro e dal menu scegliete Rubrica.
+Nella barra dei comandi della schermata principale in fondo a destra cliccate sul pulsante "**Altro**".
+
+.. image:: https://i.imgur.com/5XhFyY8.jpg
+    :width: 500px
+    :align: center
+
+Dal menu scegliete "**Rubrica**".
+
+.. image:: https://i.imgur.com/2SsaOgO.jpg
+    :width: 500px
+    :align: center
 
 Nella rubrica potete salvare degli indirizzi per utilizzarli successivamente con maggiore semplicità. Per registrare un nuovo address, premete su “CREA NUOVO” o in alto a destra sull’icona +.
 
