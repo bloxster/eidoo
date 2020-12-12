@@ -24,7 +24,7 @@ La schermata principale **“I tuoi asset”** mostra il vostro saldo. Essendo i
 Le valute supportate da Eidoo sono attualmente **Bitcoin**, **Litecoin**, **Ether**, token **ERC20** (PNT, USDT, DAI, BAT, etc., 
 `qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa) o token **NFT**.
 
-Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo (o *address*).
+Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo di deposito (o *address*).
 
 **IMPORTANTE: prima di depositare qualsiasi asset fate una prova con un importo minimo per verificare che l’address sia corretto e che non ci siano problemi.**
 
@@ -34,14 +34,14 @@ Cliccate in alto a destra il QR code per visualizzare il menu per la scelta dell
     :width: 500px
     :align: center
 
-Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH,** 
+Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**. 
 
 .. image:: https://i.imgur.com/uHWDfKT.jpg
     :width: 500px
     :align: center
  
 
-Cliccando su **AGGIUNGI FONDI **in basso al centro, o su Deposito in alto a sinistra visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
+Cliccando su **AGGIUNGI FONDI** in basso al centro, o su Deposito in alto a sinistra visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
 
 In basso trovate anche il relativo **indirizzo di deposito** in formato esadecimale. Con i tasti **"CONDIVIDI"** e **"COPIA"** potete rispettivamente inviare il vostro address tramite SMS, mail, social o copiare l'indirizzo completo nella memoria del vostro smartphone.
 
@@ -49,7 +49,14 @@ In basso trovate anche il relativo **indirizzo di deposito** in formato esadecim
     :width: 500px
     :align: center
 
-Per ricevere token **ERC20 e ERC223** si utilizza lo stesso identico **address di Ethereum.**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerloi è identico.
+Per ricevere token **ERC20 e ERC223** si utilizza lo stesso identico **address di Ethereum.**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerlo è identico.
+
+Eidoo non supporta per la generazione di indirizzi con un importo predeterminato (EIP-681).
+
+**ATTENZIONE**: mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. Questa caratteristica  denominata *hierarcal deterministic wallet* è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi vecchi per ricevere bitcoin o litecoin, meglio utilizzare indirizzi sempre nuovi per lasciare meno tracce sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
+
+Tempi di deposito delle criptovalute
+_____________________________________
 
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
 
@@ -60,21 +67,6 @@ Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset
 .. image:: ./images/kix.r5ynfmr07yzu.png
 
 Lo storico delle transazioni di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
-
-
-**ATTENZIONE**: mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. Questa caratteristica  denominata *hierarcal deterministic wallet* è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi vecchi per ricevere bitcoin o litecoin, meglio utilizzare indirizzi sempre nuovi per lasciare meno tracce sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
-
-Condivisione del proprio indirizzo
-==================================
-Cliccando su **COPIA** nella schermata dell’indirizzo copierete l’indirizzo di Ethereum sulla clipboard del vostro smartphone in modo da poterla poi “incollare” su qualsiasi applicazione.
- 
-.. image:: ./images/kix.ksjabtq151d7.png
-
-
-
-Premendo invece il pulsante **CONDIVIDI **potete** **inviare direttamente il vostro indirizzo attraverso la modalità di condivisione dello smartphone ad es. sui vari social.
-Eidoo non supporta la generazione o la lettura di indirizzi con un importo pre-determinato (EIP-681).
-**ATTENZIONE**: il vostro indirizzo di Ethereum è la vostra chiave pubblica dalla quale non è mai possibile risalire alla chiave privata, per cui non è pericoloso condividerlo dal punto di vista della sicurezza. Ma data la trasparenza della blockchain, attraverso il vostro indirizzo è possibile risalire a numerose informazioni come saldo, movimenti, operazioni su exchange, etc etc. quindi è opportuno **condividerlo solo con persone e soggetti di cui vi fidate**.
 
 Invio dei token e delle criptovalute supportate
 ===============================================
