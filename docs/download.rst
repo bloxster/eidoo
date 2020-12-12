@@ -48,6 +48,8 @@ Una volta scelta la password e confermata nel campo successivo, premete “**CRE
  
 .. image:: https://i.imgur.com/NuKvHqH.jpg
     :width: 500px
+    :align: center
+
 
 Potete attivare lo **sblocco** di Eidoo Wallet tramite **dati biometrici** come impronta digitale o riconoscimento facciale andando nelle impostazioni, ma ogni qualvolta effettuerete una transazione dovete comunque utilizzare la password da voi impostata. 
 Eidoo creerà un nuovo wallet e la relativa frase di recupero di 12 parole da conservare accuratamente. Leggete attentamente gli avvisi delle schermate successive e cliccate su “**AVANTI**” e “**INIZIA**” per procedere.
