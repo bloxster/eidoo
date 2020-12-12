@@ -104,40 +104,48 @@ Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato es
 Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra il quantitativo disponibile, cliccando su di esso invierete l’intero importo del wallet.
 
 .. note::
-    **mantenete sempre un saldo di almeno 0,1 ETH** nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione, sia essa uno scambio, uno swap o un       trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete reintegrarlo con un nuovo acquisto o mandando un importo da un       indirizzo esterno.
+    Mantenete sempre un **saldo minimo** di almeno 0,1 ETH nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione,
+    sia essa uno scambio, uno swap o un trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete
+    reintegrarlo con un nuovo acquisto o mandando un importo da un indirizzo esterno.
 
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
-.. image:: ./images/kix.tn7do63ayeqr.png
- 
-Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una transazione di **priorità media**.
-In alternativa potete cliccare in alto a sinistra sul simbolo di equalizzazione e:
-* stabilire la priorità** **secondo i preset **BASSA, NORMALE, ALTA*** immettere manualmente il **Gas Limit*** aumentare o diminuire il Gas di 1000 unità alla volta con i tasti **+** e **–**.
+.. image:: https://i.imgur.com/qKV6BIV.jpg
+    :width: 500px
+    :align: center
 
-.. image:: ./images/kix.rdncp7rv2q9c.png
+Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una transazione di **priorità media**. In alternativa potete cliccare in alto a sinistra sul simbolo di equalizzazione e: 
+* stabilire la priorità secondo i preset **BASSA, NORMALE, ALTA***;
+* immettere manualmente il **Gas Limit***;
+* aumentare o diminuire il Gas di 1000 unità alla volta con i tasti **+** e **–**.
 
-In questa schermata è presente anche una opzione avanzata per inserire una stringa nel campo **Data (hexadecimal)**. Non utilizzatela a meno che non sappiate quello che state facendo.
-Una volta inserite le informazioni, premete su **CONFERMA CON PASSWORD **se siete nella schermata di **Impostazioni Avanzate** o su **PROCEDI **se siete nella schermata **Trasferisci dal wallet personale.** 
+.. image:: https://i.imgur.com/8PrVr29.jpg
+    :width: 500px
+    :align: center
 
-.. image:: ./images/kix.l9691otuxbio.png
+In questa schermata è presente anche una opzione avanzata per inserire una stringa nel campo **Data (hexadecimal)**. Non utilizzatela a meno che non sappiate quello che state facendo, la maggior parte dei casi non vi servirà.
+Una volta inserite le informazioni, premete su **CONFERMA CON PASSWORD** se siete nella schermata di **Impostazioni Avanzate** o su **PROCEDI** se siete nella schermata **Trasferisci dal wallet personale.**
 
-
-
+.. image:: https://i.imgur.com/hD0CIh8.jpg
+    :width: 500px
+    :align: center
+    
+.. image:: https://i.imgur.com/qKV6BIV.jpg
+    :width: 500px
+    :align: center
+    
 Dovete ora confermare inserendo la vostra **password di spesa**, quella che avete scelto inizialmente per il wallet.
 Inserite la password e cliccate su “**CONFERMA**” per spedire la transazione.
  
-.. image:: ./images/kix.blkylxfm1tuk.png
-
-
+.. image:: https://i.imgur.com/euBXcBD.jpg
+    :width: 500px
+    :align: center
 
 Una schermata di conferma apparirà quando la transazione sarà stata inviata alla blockchain. Cliccate su “**VAI ALLA LISTA DI TRANSAZIONI**” per vedere le transazioni relative a questo asset (vedi capitolo dedicato).
  
- 
-
-
-** **
-.. image:: ./images/kix.n17h4kvffk3y.png
-
+.. image:: https://i.imgur.com/mp0oYq3.jpg
+    :width: 500px
+    :align: center
 
 Token Non Fungibili NFT
 ===============================================
