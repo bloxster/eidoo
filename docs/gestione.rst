@@ -34,7 +34,7 @@ Cliccate in alto a destra il QR code per visualizzare il menu per la scelta dell
     :width: 500px
     :align: center
 
-Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**. 
+Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**.
 
 .. image:: https://i.imgur.com/uHWDfKT.jpg
     :width: 500px
@@ -53,10 +53,11 @@ Per ricevere token **ERC20 e ERC223** si utilizza lo stesso identico **address d
 
 Eidoo non supporta per la generazione di indirizzi con un importo predeterminato (EIP-681).
 
-**ATTENZIONE**: mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. Questa caratteristica  denominata *hierarcal deterministic wallet* è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi vecchi per ricevere bitcoin o litecoin, meglio utilizzare indirizzi sempre nuovi per lasciare meno tracce sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
+.. warning::
+   **ATTENZIONE**: mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. Questa caratteristica      denominata *hierarcal deterministic wallet* è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni    transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi vecchi per ricevere bitcoin o litecoin, meglio utilizzare indirizzi sempre nuovi per        lasciare meno tracce sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
 
 Tempi di deposito delle criptovalute
-_____________________________________
+====================================
 
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
 
