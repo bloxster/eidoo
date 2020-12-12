@@ -166,11 +166,11 @@ In particolare Eidoo supporta i token NFT su Ethereum. Per vedere i vostri NFT s
     :width: 500px
     :align: center
 
-Cliccateci sopra e scegliete 
+Cliccateci sopra e scegliete "**MANAGE MY NFTS**" per vedere e spedire i vostri NFT.
 
 .. image:: https://i.imgur.com/tOL7ZHd.jpg
     :width: 500px
     :align: center
 
-Cliccando su "**DISCOVER NFTs" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese sul sito di OpenSea, uno dei maggiori mercati di NFT.
+Cliccando su "**DISCOVER NFTs**" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese sul sito di OpenSea, uno dei maggiori mercati di NFT.
 
