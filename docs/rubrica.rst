@@ -29,13 +29,13 @@ Potete salvare gli address ETH, BTC e LTC dello stesso contatto.
 
 Una volta riempiti i campi che vi interessano premete su “**SALVA CONTATTO**” per finalizzare l’inserimento di questo nuovo contatto.
 
-.. image:: https://i.imgur.com/dTTRmQL.jpg
+.. image:: https://i.imgur.com/ip11BjU.jpg
     :width: 500px
     :align: center
 
 Quando avrete popolato la vostra rubrica appariranno i vari vostri contatti in forma di elenco.
 
-.. image:: https://i.imgur.com/lxcV7bI.jpg
+.. image:: https://i.imgur.com/hZ2h9sz.jpg
     :width: 500px
     :align: center
 
