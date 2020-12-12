@@ -6,19 +6,18 @@ Eidoo è disponibile per dispositivi Android e iOS e in versione desktop: Mac, W
 
 Per installarlo sul vostro smartphone andate nei rispettivi store di Google Play e App Store. 
 
-# Apple store
 
 .. image:: /images/image2.png
     :width: 100px
     :target: https://itunes.apple.com/app/eidoo/id1279896253?mt=8
-    :align: center                   
-
-# Google Play
+    :align: center                 
 
 .. image:: /images/image4.png
     :width: 100px
     :target: https://play.google.com/store/apps/details?id=io.eidoo.wallet.prodnet&hl=en_US&gl=US
     :align: center
+    :alt: Google Play
+    
     
 Per scaricare la versione desktop andate invece sulla pagina ufficiale di Eidoo dedicata ai client desktop:
 
