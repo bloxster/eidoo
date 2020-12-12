@@ -173,5 +173,5 @@ Cliccateci sopra e scegliete "**MANAGE MY NFTS**" per vedere e spedire i vostri 
     :width: 500px
     :align: center
 
-Cliccando su "**DISCOVER NFTs**" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese sul sito di OpenSea, uno dei maggiori mercati di NFT.
+Cliccando su "**DISCOVER NFTS**" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese di approfondimento sul sito di OpenSea, uno dei maggiori mercati di NFT.
 
