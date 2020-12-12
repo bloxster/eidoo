@@ -17,11 +17,9 @@ Eidoo Wallet
 
 La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. 
 
-HelpDesk Ufficiale di Eidoo
----------------------------
+.. note::
 
 Per informazioni più approfondite sui prodotti di Eidoo visitate anche l’Help Center di Eidoo a questo indirizzo:
-
 https://eidoohelp.zendesk.com/hc/it
 
 Indice dei contenuti
