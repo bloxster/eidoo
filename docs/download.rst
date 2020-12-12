@@ -18,7 +18,7 @@ Per installarlo sul vostro smartphone andate nei rispettivi store di Google Play
     :width: 100px
     :target: https://play.google.com/store/apps/details?id=io.eidoo.wallet.prodnet&hl=en_US&gl=US
     :align: center
-    :alt: Google Play
+    :alt: Google Play ma vacagher
     
     
 Per scaricare la versione desktop andate invece sulla pagina ufficiale di Eidoo dedicata ai client desktop:
