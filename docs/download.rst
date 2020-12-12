@@ -58,10 +58,10 @@ La schermata successiva mostra le 12 parole preselezionate da **Eidoo**. Immette
  
 Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi serviranno per l’eventuale restore del vostro wallet.
 
-.. image:: https://github.com/bloxster/eidoo/blob/master/images/image11.jpg
+.. image:: https://github.com/bloxster/eidoo/blob/master/images/image11.png
     :width: 500px
 
-.. image:: https://github.com/bloxster/eidoo/blob/master/images/image12.jpg
+.. image:: https://github.com/bloxster/eidoo/blob/master/images/image12.png
     :width: 500px
 
 La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicemente *seed*) rappresenta la chiave privata del vostro wallet e va conservata con la massima cura. È fortemente sconsigliato catturare schermate che normalmente finiscono su sistemi insicuri nella gestione dei dati, e raccomandiamo assolutamente di NON salvare le parole su servizi CLOUD come Google Drive, Dropbox, etc. etc.
