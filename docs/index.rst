@@ -15,7 +15,7 @@ Eidoo Wallet
 - **DeFi Exchange**, dedicato a criptovalute, token, e stablecoin dei migliori protocolli di DeFi di Ethereum;
 - **DAO Manager**, per gestire la DAO di pTokens (staking e voting);
 - La possibilità di **acquistare criptovalute tramite deposito bancario** o carta di credito, e di vendere criptovalute e ricevere l’importo corrispondente tramite bonifico SEPA;
-- **EidooCARD**, una carta di debito per spendere le criptovalute nel proprio wallet, con diversi livelli di benefici e payback;
+- **Eidoo Card**, una carta di debito per spendere le criptovalute nel proprio wallet, con diversi livelli di benefici e payback;
 - **EidooID**, uno strumento per soddisfare i requisiti KYC/AML necessari.
 
 La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. 
@@ -49,8 +49,4 @@ Indice dei contenuti
    disclaimer
 
 
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
