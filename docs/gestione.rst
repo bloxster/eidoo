@@ -155,7 +155,7 @@ Una schermata di conferma apparirà quando la transazione sarà stata inviata al
 Storico delle proprie transazioni
 -----------------------------------
 
-Dalla schermata principale premete sulla criptovaluta di cui volete visualizzare la storia delle transazioni, ad esempio ETH. per vederne lo storico di tutte le operazioni.
+Dalla schermata principale premete sulla criptovaluta di cui volete visualizzare la storia delle transazioni, ad esempio ETH.
 
 .. image:: https://i.imgur.com/saZSRgc.jpg
     :width: 500px
