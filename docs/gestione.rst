@@ -87,8 +87,6 @@ Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che 
 Per l’invio di ETH, dopo aver premuto **ETH **nella schermata principale. Cliccate sul tasto **Trasferisci**.
 
 .. image:: https://i.imgur.com/suMgNU3.jpg
-    :width: 500px
-    :align: center
 
 Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate nel campo  **Scegli beneficiario**.
 
