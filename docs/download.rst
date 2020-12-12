@@ -21,9 +21,10 @@ Per installarlo sul vostro smartphone andate nei rispettivi store di Google Play
     :alt: Google Play
     
     
-Per scaricare la versione desktop andate invece sulla pagina ufficiale di Eidoo dedicata ai client desktop:
+Per scaricare la versione desktop (OS, Windows, Linux) andate invece sulla pagina ufficiale di Eidoo dedicata ai client desktop:
 
 `eidoo.io/desktop-download/ <https://eidoo.io/desktop-download/>`_
+
 
 Una volta installato Eidoo sul vostro dispositivo mobile aprite la applicazione e scorrete le tre pagine di informazioni su **Eidoo** e poi premete un qualunque punto dello schermo, oppure premete “**SKIP**” per saltarle completamente.
 
