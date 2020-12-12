@@ -68,13 +68,17 @@ Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui 
 
 Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer come ad esempio `Etherscan <https://etherscan.io/>`_ per Ethereum o `BlockChair <https://blockchair.com/bitcoin/>`_ per Bitcoin.
 
-`_ <https://live.blockcypher.com/>`_``Blockcypher.com`_ <https://live.blockcypher.com/>`_ ).
-
 Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist.com <http://cryptonomist.com/>`_.
 
-.. image:: ./images/kix.r5ynfmr07yzu.png
+.. image:: https://i.imgur.com/Ps42tLA.jpg
+    :width: 500px
+    :align: cente
 
 Lo storico delle transazioni di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
+
+.. image:: https://i.imgur.com/7CPVVqG.jpg
+    :width: 500px
+    :align: cente
 
 Invio dei token e delle criptovalute supportate
 -------------------------------------------------------------------------------
