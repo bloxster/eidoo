@@ -21,8 +21,8 @@ Visualizzazione dell’indirizzo di deposito di una delle criptovalute supportat
 -------------------------------------------------------------------------------
 
 La schermata principale **“I tuoi asset”** mostra il vostro saldo. Essendo il wallet appena creato è chiaramente vuoto: 0 BTC, 0 ETH, 0 LTC, etc. etc.
-Le valute supportate da Eidoo sono attualmente **Bitcoin**, **Litecoin**, **Ether** o token **ERC20** quali PNT, USDT, DAI, BAT, etc., 
-`qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa.
+Le valute supportate da Eidoo sono attualmente **Bitcoin**, **Litecoin**, **Ether**, token **ERC20** (PNT, USDT, DAI, BAT, etc., 
+`qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa) o token **NFT**.
 
 Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo (o *address*).
 
@@ -30,40 +30,35 @@ Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto vis
 
 Cliccate in alto a destra il QR code per visualizzare il menu per la scelta della criptovaluta da depositare.
 
-Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH,** e vi si aprirà una schermata che rappresenta il saldo di ETH e lo storico delle transazioni, nel caso ce ne siano.
+.. image:: https://i.imgur.com/ViVjALd.jpg
+    :width: 500px
+    :align: center
 
-.. image:: ./images/kix.mw5xrn33nyrn.png
+Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH,** 
 
-
-`Apple Store <https://itunes.apple.com/app/eidoo/id1279896253?mt=8>`_                     
-
-
-
+.. image:: https://i.imgur.com/uHWDfKT.jpg
+    :width: 500px
+    :align: center
  
-Vedrete che per alcuni coin/token sono già presenti le opzioni di **COMPRA** e **SWAP** che vedremo in seguito.
-*Per l’opzione ***Bitcoin su Ethereum*** ***(pBTC)*** o gli asset tokenizzati di pToken in genere vedete il capitolo dedicato.*
-.. image:: ./images/kix.e9jvn1gborve.png
 
+Cliccando su **AGGIUNGI FONDI **in basso al centro, o su Deposito in alto a sinistra visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
 
+In basso trovate anche il relativo **indirizzo di deposito** in formato esadecimale. Con i tasti **"CONDIVIDI"** e **"COPIA"** potete rispettivamente inviare il vostro address tramite SMS, mail, social o copiare l'indirizzo completo nella memoria del vostro smartphone.
 
- 
-Cliccando su **AGGIUNGI FONDI **in basso al centro, o su Deposito in alto a sinistra visualizzerete il vostro **QR CODE **e il relativo** address **in formato esadecimale in basso.
+.. image:: https://i.imgur.com/3FcxdZZ.jpg
+    :width: 500px
+    :align: center
 
-.. image:: ./images/kix.gg3bu3uqra25.png
+Per ricevere token **ERC20 e ERC223** si utilizza lo stesso identico **address di Ethereum.**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerloi è identico.
 
-
-
-Per ricevere token **ERC20 e ERC223** si utilizza l’**address di Ethereum. **I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address è identico.
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
+
 Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer (``Etherscan`_ <https://etherscan.io/>`_,`` `_ <https://live.blockcypher.com/>`_``Blockcypher.com`_ <https://live.blockcypher.com/>`_ ).
-Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo.
-Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum **grazie al widget fornito da`` `_ <http://cryptonomist.com/>`_``Cryptonomist.com`_ <http://cryptonomist.com/>`_.
+
+Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da`` `_ <http://cryptonomist.com/>`_``Cryptonomist.com`_ <http://cryptonomist.com/>`_.
 
 .. image:: ./images/kix.r5ynfmr07yzu.png
 
-
-
- 
 Lo storico delle transazioni di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
 
 
