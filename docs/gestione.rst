@@ -149,6 +149,9 @@ Una schermata di conferma apparirà quando la transazione sarà stata inviata al
 .. image:: ./images/kix.n17h4kvffk3y.png
 
 
+Token nNon Fungibili NFT
+===============================================
 
+Eidoo supporta anche i token non fungibili o NFT. Gli NFT sono lll
 
 
