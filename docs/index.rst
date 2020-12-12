@@ -1,4 +1,7 @@
-.. imahttps://github.com/bloxster/eidoo/tree/master/docsge:: https://i.imgur.com/AQQDYZH.png
+
+.. image:: https://i.imgur.com/AQQDYZH.png
+    :width: 500px
+    :align: center
 
 Eidoo Wallet
 =============
