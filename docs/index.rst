@@ -1,5 +1,5 @@
 
-.. image:: https://i.imgur.com/d3ZPEZJ.png?1
+.. image:: https://imgur.com/d3ZPEZJ
     :width: 500px
     :align: center
 
