@@ -32,11 +32,13 @@ Nella schermata successiva cliccate su “**CREA UN NUOVO WALLET**”.
 .. image:: https://i.imgur.com/aI1GzyK.jpg
     :width: 500px
     :align: center
-    
+
+
 Leggete i Termini di Servizio e scorrete la pagina fino in fondo, accettate premendo sul pulsante “**ACCETTO**”.
 
 .. image:: https://i.imgur.com/0tt7UvT.jpg
     :width: 500px
+    :align: center
 
 Nel campo successivo dovrete inserire una password robusta e confermarla con un secondo inserimento.
 
@@ -88,7 +90,7 @@ La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicement
 .. image:: https://i.imgur.com/BdVdMbB.png
     :width: 500px
     :align: center
-    
+
 Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle. 
 
 Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**; vi saranno richieste tutte e dodici le parole.
@@ -98,8 +100,7 @@ Riceverete la conferma della avvenuta procedura di backup del seed, cliccate nuo
 .. image:: https://i.imgur.com/OvJ4J2z.jpg
     :width: 500px 
     :align: center
-    
-    
+
 Prima di aprire il wallet vero e proprio, Eidoo vi chiederà se volete condividere i vostri dati di utilizzo della app in maniera anonima con il team di sviluppo. Questa feature è molto utile allo staff di Eidoo per capire l’utilizzo della app e migliorarne la stabilità, ed è assolutamente sicura in quanto non viene condiviso nessun dato personale o del portafoglio, tantomeno la vostra chiave privata.
 
 Decidete quindi se supportare lo sviluppo di Eidoo o meno cliccando rispettivamente su “**CONDIVIDI DATI ANONIMI**” o “**NON CONDIVIDERE**”.
