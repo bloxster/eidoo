@@ -156,8 +156,9 @@ Eidoo supporta anche i token NFT.
 .. note:: 
     I token non fungibili (Non Fungible Tolens, NFT) sono elementi collezionabili all'interno della blockchain.
     Ogni token NFT si riferisce a un singolo elemento con un certo valore. Rappresentano qualcosa di unico e quindi
-    non hanno il valore reciproco intercambiabile. In altre parole, nessun token non fungibile è lo stesso. Il
-    mercato dei token NFT è in pieno sviluppo e questa funzionalità di Eidoo unita alla possibilità di utilizzare altri servizi tramite  
+    non hanno il valore reciproco intercambiabile. In altre parole, nessun token non fungibile è lo stesso.
+
+Il mercato dei token NFT è in pieno sviluppo e questa funzionalità di Eidoo unita alla possibilità di utilizzare altri servizi tramite  
 `WalletConnect <https://eidoo.readthedocs.io/it/latest/walletconnect.html#walletconnect-tutti-i-protocolli-a-portata-di-qr-code>`_ risulta molto utile.
 
 In particolare Eidoo supporta i token NFT su Ethereum. Per vedere i vostri NFT scorrete il banner centrale fino a quando non trovate "**NFT Manager**".
