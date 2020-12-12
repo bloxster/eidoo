@@ -5,7 +5,7 @@ Il wallet di Eidoo si apre con la schermata principale che contiene in alto il s
 preferenze), e al centro il saldo dei vari asset.
 
 .. image:: https://i.imgur.com/bhoHQQQ.png
-    :width: 500px
+    :width: 600px
     :align: center                 
     :alt: I tuoi asset    
 
