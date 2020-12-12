@@ -31,6 +31,7 @@ Indice dei contenuti
    :maxdepth: 2
    
    download
+   i_tuoi_asset
    schermata_principale
    gestione
    rubrica
