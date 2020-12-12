@@ -66,13 +66,11 @@ Tempi di deposito delle criptovalute
 
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
 
-Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer come ad esempio `Etherscan <https://etherscan.io/>`_ per Ethereum o `Blockcypher <https://live.blockcypher.com/>`_ per Bitcoin.
-
-(``Etherscan`_ <https://etherscan.io/>`_,``
+Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer come ad esempio `Etherscan <https://etherscan.io/>`_ per Ethereum o `BlockChair <https://blockchair.com/bitcoin/>`_ per Bitcoin.
 
 `_ <https://live.blockcypher.com/>`_``Blockcypher.com`_ <https://live.blockcypher.com/>`_ ).
 
-Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da`` `_ <http://cryptonomist.com/>`_``Cryptonomist.com`_ <http://cryptonomist.com/>`_.
+Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist.com <http://cryptonomist.com/>`_.
 
 .. image:: ./images/kix.r5ynfmr07yzu.png
 
@@ -81,27 +79,33 @@ Lo storico delle transazioni di ogni criptovaluta può essere visualizzato clicc
 Invio dei token e delle criptovalute supportate
 ===============================================
 Una volta che nel wallet sono presenti dei fondi diventa possibile trasferirli ad altri address.
-Dalla schermata principale “**“I tuoi asset””** cliccate sulla criptovaluta che volete trasferire. L’immagine seguente mostra ad il wallet di ETH dopo diverse operazioni (le operazioni a 0 ETH sono operazioni con smart contract come quello dell’exchange di Eidoo).
-Per l’invio di ETH, dopo aver premuto **ETH **nella schermata principale. Cliccate sul tasto “**Trasferisci**”.
-.. image:: ./images/kix.nahb4stor7ll.png
+Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che volete trasferire. L’immagine seguente mostra ad il wallet di ETH dopo diverse operazioni (le operazioni a 0 ETH sono operazioni con smart contract come quello dell’exchange di Eidoo).
+Per l’invio di ETH, dopo aver premuto **ETH **nella schermata principale. Cliccate sul tasto **Trasferisci**.
 
+.. image:: https://i.imgur.com/suMgNU3.jpg
+    :width: 500px
+    :align: center
 
+Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate nel campo  **Scegli beneficiario**.
 
+.. image:: https://i.imgur.com/7wkk68y.jpg
+    :width: 500px
+    :align: center
 
-
-Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate nel campo** Scegli beneficiario**.
-
-.. image:: ./images/kix.rsjmm8846gmj.png
-
-Potete a questo punto **incollare l’indirizzo **che avete copiato precedentemente nella clipboard del vostro dispositivo scegliendo **Incolla**, o scannerizzare un **QRCode **con la fotocamera dello smartphone per acquisire direttamente l’indirizzo da un altro dispositivo cliccando su **Scannerizza un codice QR**. Questa funzione è molto utile per mandare importi ad un amico che ha una app sul telefono o a un sito web che visualizza il codice QR.
+Potete a questo punto **incollare l’indirizzo** che avete copiato precedentemente nella clipboard del vostro dispositivo scegliendo **Incolla**, o scannerizzare un **QRCode** con la fotocamera dello smartphone per acquisire direttamente l’indirizzo da un altro dispositivo cliccando su **Scannerizza un codice QR**. Questa funzione è molto utile per mandare importi ad un amico che ha una app sul telefono o a un sito web che visualizza il codice QR.
  
-Eidoo supporta anche gli **indirizzi ENS** come vitalik.eth, facili da ricordare e da inserire.
+Eidoo supporta anche gli **indirizzi ENS** come 'vitalik.eth', facili da ricordare e da inserire.
 
-.. image:: ./images/kix.tnzphp3duqfs.png
+.. image:: https://i.imgur.com/cWml80Y.jpg
+    :width: 500px
+    :align: center
 
 Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato esadecimale, eliminando così ogni possibilità di errore umano.  Gli unici indirizzi che si possono inserire manualmente (INSERISCI L’INDIRIZZO) sono gli indirizzi ENS.
 Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra il quantitativo disponibile, cliccando su di esso invierete l’intero importo del wallet.
-**ATTENZIONE**: **mantenete sempre un saldo di almeno 0,1 ETH** nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione, sia essa uno scambio, uno swap o un trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete reintegrarlo con un nuovo acquisto o mandando un importo da un indirizzo esterno.
+
+.. note::
+    **mantenete sempre un saldo di almeno 0,1 ETH** nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione, sia essa uno scambio, uno swap o un       trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete reintegrarlo con un nuovo acquisto o mandando un importo da un       indirizzo esterno.
+
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
 .. image:: ./images/kix.tn7do63ayeqr.png
