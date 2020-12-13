@@ -83,6 +83,7 @@ Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi servir
     La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicemente *seed*) rappresenta la **chiave privata** del vostro wallet
     e va conservata con la massima cura. È fortemente sconsigliato catturare schermate che normalmente finiscono su sistemi insicuri nella gestione dei dati,
     e raccomandiamo assolutamente di NON salvare le parole su servizi CLOUD come Google Drive, Dropbox, etc. etc.
+    
     Annotatevi le 12 parole su un foglio di carta e fatene piu copie in modo da avere un backup sicuro in diversi luoghi.
 
 **ATTENZIONE AI TRUFFATORI** ⚠️
