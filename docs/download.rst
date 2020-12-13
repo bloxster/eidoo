@@ -72,7 +72,7 @@ La schermata successiva mostra le 12 parole preselezionate da **Eidoo**. Immette
     :align: center
 
 
-Ora potrete visualizzare la **Frase di backup** o **Frase di Recupero**. Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi serviranno per l’eventuale restore del vostro wallet.
+Ora potrete visualizzare la **Frase di backup** o **Frase di Recupero**. Scrivete le 12 parole in un foglio e conservatele in luogo sicuro. Vi serviranno per l’eventuale restore del vostro wallet.
 
 .. image:: https://i.imgur.com/bCAbcDI.png
     :width: 500px
@@ -87,13 +87,11 @@ Ora potrete visualizzare la **Frase di backup** o **Frase di Recupero**. Scrivet
     
     **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
 
-Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle.
+Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle. Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**; vi saranno richieste tutte e 12 le parole.
 
 .. image:: https://i.imgur.com/BdVdMbB.png
     :width: 500px
     :align: center
-
-Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**; vi saranno richieste tutte e 12 le parole.
 
 Riceverete la conferma della avvenuta procedura di backup del seed, cliccate nuovamente su **AVANTI**.
  
