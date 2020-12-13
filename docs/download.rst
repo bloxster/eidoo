@@ -87,7 +87,7 @@ Ora potrete visualizzare la **Frase di backup** o **Frase di Recupero**. Scrivet
     
     **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
 
-Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle. Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**; vi saranno richieste tutte e 12 le parole.
+Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle. Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**. Vi saranno richieste tutte e 12 le parole.
 
 .. image:: https://i.imgur.com/BdVdMbB.png
     :width: 500px
