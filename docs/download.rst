@@ -80,24 +80,26 @@ Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi servir
 
 
 .. warning::
-    La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicemente *seed*) rappresenta la chiave privata del vostro wallet
+    La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicemente *seed*) rappresenta la **chiave privata** del vostro wallet
     e va conservata con la massima cura. È fortemente sconsigliato catturare schermate che normalmente finiscono su sistemi insicuri nella gestione dei dati,
     e raccomandiamo assolutamente di NON salvare le parole su servizi CLOUD come Google Drive, Dropbox, etc. etc.
+    Annotatevi le 12 parole su un foglio di carta e fatene piu copie in modo da avere un backup sicuro in diversi luoghi.
+
+**ATTENZIONE AI TRUFFATORI** ⚠️
+In particolare ci sono truffatori che impersonano gli amministratori del canale Telegram di Eidoo. Non appena entrerete in questa chat 
+e farete una domanda potreste ricevere messaggi privati da parte di utenti malevoli che cercheranno di estorcervi la frase di recupero
+del vostro wallet. Se qualcuno dovesse contattarvi riportate l'account come SPAM a Telegram.
+    
+🚫 Il team Eidoo non vi contatterà MAI in privato
+  
+🚫 NON condividere MAI il seed (la frase di ripristino di 12 parole)
+ 
+🚫 Il team Eidoo non vi proporrà MAI vendite private o bonus
+
+🚫 Il team Eidoo non utilizzerà mai Google Docs o Google Forms
+    
 
 .. warning::
-    **ATTENZIONE AI TRUFFATORI** ⚠️
-    In particolare ci sono truffatori che impersonano gli amministratori del canale Telegram di Eidoo. Non appena entrerete in questa chat 
-    e farete una domanda potreste ricevere messaggi privati da parte di utenti malevoli che cercheranno di estorcervi la frase di recupero
-    del vostro wallet. Se qualcuno dovesse contattarvi riportate l'account come SPAM a Telegram.
-    
-    🚫 Il team Eidoo non vi contatterà MAI in privato
-    
-    🚫 NON condividere MAI il seed (la frase di ripristino di 12 parole)
-    
-    🚫 Il team Eidoo non vi proporrà MAI vendite private o bonus
-    
-    🚫 Il team Eidoo non utilizzerà mai Google Docs o Google Forms
-    
     **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
 
 .. image:: https://i.imgur.com/BdVdMbB.png
