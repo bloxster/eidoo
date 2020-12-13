@@ -87,17 +87,6 @@ Ora potrete visualizzare la **Frase di backup** o **Frase di Recupero**. Scrivet
     
     **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
 
-**ATTENZIONE AI TRUFFATORI** ⚠️
-Non appena entrerete nelle chat Telegram di Eidoo e farete una domanda potreste ricevere messaggi privati da parte di utenti malevoli che si spacciano per gli amministratori o il supporto di Eidoo. Cercheranno di estorcervi la frase di recupero del vostro wallet per svuotarlo immediatamente. Non rispondete ai messaggi privati e e riportate l'account come account di SPAM a Telegram.
-    
-🚫 Il team Eidoo non vi contatterà MAI in privato
-  
-🚫 NON condividere MAI il seed (la frase di ripristino di 12 parole)
- 
-🚫 Il team Eidoo non vi proporrà MAI vendite private o bonus
-
-🚫 Il team Eidoo non utilizzerà mai Google Docs o Google Forms
-
 Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle.
 
 .. image:: https://i.imgur.com/BdVdMbB.png
