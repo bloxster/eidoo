@@ -19,15 +19,15 @@ Eidoo supporta le seguenti criptovalute:
 Visualizzazione dell’indirizzo di deposito di una delle criptovalute supportate
 -------------------------------------------------------------------------------
 
-La schermata principale **“I tuoi asset”** mostra il vostro saldo. Essendo il wallet appena creato è chiaramente vuoto: 0 BTC, 0 ETH, 0 LTC, etc. etc.
-Le valute supportate da Eidoo sono attualmente **Bitcoin**, **Litecoin**, **Ether**, token **ERC20** (PNT, USDT, DAI, BAT, etc., 
-`qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa) o token **NFT**.
+La schermata principale **“I tuoi asset”** mostra il saldo complessivo del vostro wallet. Essendo il wallet appena creato è chiaramente vuoto: 0 BTC, 0 ETH, 0 LTC, etc. etc. Le valute supportate da Eidoo sono **Bitcoin**, **Litecoin**, **Ether**, token **ERC20** (PNT, USDT, DAI, BAT, etc., 
+`qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa) e i token **NFT**.
 
 Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo di deposito (o *address*).
 
-**IMPORTANTE: prima di depositare qualsiasi asset fate una prova con un importo minimo per verificare che l’address sia corretto e che non ci siano problemi.**
+.. warning::
+    Prima di depositare qualsiasi asset fate una prova con un importo minimo per verificare che l’address sia corretto e che non ci siano problemi.
 
-Cliccate in alto a destra il QR code per visualizzare il menu per la scelta della criptovaluta da depositare.
+Cliccate in alto a destra il **QR code** per visualizzare il menu per la scelta della criptovaluta da depositare.
 
 .. image:: https://i.imgur.com/ViVjALd.jpg
     :width: 500px
@@ -49,10 +49,14 @@ In basso trovate anche il relativo **indirizzo di deposito** in formato esadecim
 
 Per ricevere token **ERC20 e ERC223** si utilizza lo stesso identico **address di Ethereum.**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerlo è identico.
 
-Eidoo non supporta per la generazione di indirizzi con un importo predeterminato (EIP-681).
+Eidoo non supporta la generazione di indirizzi con un importo predeterminato (EIP-681).
 
 .. note::
-    Mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. Questa caratteristica     denominata      *hierarcal deterministic wallet* è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad         ogni       transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi vecchi per ricevere bitcoin o litecoin, meglio utilizzare indirizzi sempre nuovi             per lasciare meno tracce sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
+    Mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia.
+    Questa caratteristica è tipica di un *hierarcal deterministic wallet* ed è desiderata per proteggere meglio la vostra privacy, 
+    quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare 
+    a utilizzare gli indirizzi "vecchi" per ricevere bitcoin o litecoin, è sempre meglio utilizzare indirizzi nuovi per lasciare tracce
+    meno evidenti sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
 
 .. warning::
     Il vostro indirizzo di Ethereum è la vostra chiave pubblica dalla quale non è mai possibile risalire alla chiave privata, per cui non è
@@ -67,7 +71,7 @@ Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui 
 
 Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer come ad esempio `Etherscan <https://etherscan.io/>`_ per Ethereum o `BlockChair <https://blockchair.com/bitcoin/>`_ per Bitcoin.
 
-Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist.com <http://cryptonomist.com/>`_.
+Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist <http://cryptonomist.com/>`_.
 
 .. image:: https://i.imgur.com/Ps42tLA.jpg
     :width: 500px
@@ -84,7 +88,7 @@ Invio dei token e delle criptovalute supportate
 
 Una volta che nel wallet sono presenti dei fondi diventa possibile trasferirli ad altri address.
 Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che volete trasferire. L’immagine seguente mostra ad il wallet di ETH dopo diverse operazioni (le operazioni a 0 ETH sono operazioni con smart contract come quello dell’exchange di Eidoo).
-Per l’invio di ETH, dopo aver premuto **ETH **nella schermata principale. Cliccate sul tasto **Trasferisci**.
+Per l’invio di ETH, dopo aver premuto **ETH** nella schermata principale. Cliccate sul tasto **Trasferisci**.
 
 .. image:: https://i.imgur.com/suMgNU3.jpg
     :width: 500px
@@ -99,13 +103,24 @@ Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate ne
 
 Potete a questo punto **incollare l’indirizzo** che avete copiato precedentemente nella clipboard del vostro dispositivo scegliendo **Incolla**, o scannerizzare un **QRCode** con la fotocamera dello smartphone per acquisire direttamente l’indirizzo da un altro dispositivo cliccando su **Scannerizza un codice QR**. Questa funzione è molto utile per mandare importi ad un amico che ha una app sul telefono o a un sito web che visualizza il codice QR.
  
-Eidoo supporta anche gli **indirizzi ENS** come 'vitalik.eth', facili da ricordare e da inserire.
+Eidoo supporta anche gli **indirizzi ENS**.
 
 .. image:: https://i.imgur.com/cWml80Y.jpg
     :width: 500px
     :align: center
 
-Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato esadecimale, eliminando così ogni possibilità di errore umano.  Gli unici indirizzi che si possono inserire manualmente (INSERISCI L’INDIRIZZO) sono gli indirizzi ENS.
+Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato esadecimale, eliminando così ogni possibilità di errore umano.  Gli unici indirizzi che si possono inserire manualmente sono gli indirizzi ENS.
+
+.. note::
+    ENS (Ethereum Name Service) è un tipo di indirizzo di Ethereum basato su smart contract, il che significa che non soffre dell'insicurezza del sistema DNS.
+    ENS opera in modo distribuito sia per la sua infrastruttura che per la governance. Chiunque può registrare da solo un nome di dominio .eth partecipando
+    a un processo di asta, mediato dalla blockchain. 
+    ENS elimina la necessità di copiare o digitare i classici indirizzi lunghi di Ethereum. Un indirizzo ENS è per esempio ``vitalik.eth`` anziché 
+    ``0x48AfeA5E66a7d0dfb83F341e45D507757a559650`` e risulta quindi molto pratico.
+    
+    L'unica controindicazione è che espone a problemi di privacy in quanto è più facile ricondurre le transazioni al nome con cui si è registrato l'indirizzo ENS.
+
+
 Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra il quantitativo disponibile, cliccando su di esso invierete l’intero importo del wallet.
 
 .. note::
