@@ -3,8 +3,8 @@
     :width: 500px
     :align: center
 
-Eidoo Wallet
-=============
+Guida Completa all'Utilizzo di Eidoo Wallet
+============================================
 
 **eidoo** è un wallet di criptovalute nato nel 2017 che offre una serie di funzionalità tra cui:
 
@@ -50,3 +50,6 @@ Indice dei contenuti
 
 
 
+.. meta::
+   :description: Guida Completa all'Utilizzo di Eidoo Wallet
+   :keywords: Guida, Manuale, Eidoo, Wallet, DeFi, Ethereum, Bitcoin, blockchain
