@@ -86,9 +86,7 @@ Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi servir
     Annotatevi le 12 parole su un foglio di carta e fatene piu copie in modo da avere un backup sicuro in diversi luoghi.
 
 **ATTENZIONE AI TRUFFATORI** ⚠️
-In particolare ci sono truffatori che impersonano gli amministratori del canale Telegram di Eidoo. Non appena entrerete in questa chat 
-e farete una domanda potreste ricevere messaggi privati da parte di utenti malevoli che cercheranno di estorcervi la frase di recupero
-del vostro wallet. Se qualcuno dovesse contattarvi riportate l'account come SPAM a Telegram.
+Non appena entrerete nelle chat Telegram di Eidoo e farete una domanda potreste ricevere messaggi privati da parte di utenti malevoli che si spacciano per gli amministratori o il supporto di Eidoo. Cercheranno di estorcervi la frase di recupero del vostro wallet per svuotarlo immediatamente. Non rispondete ai messaggi privati e e riportate l'account come account di SPAM a Telegram.
     
 🚫 Il team Eidoo non vi contatterà MAI in privato
   
