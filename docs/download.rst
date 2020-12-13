@@ -65,19 +65,18 @@ Eidoo creerà un nuovo wallet e la relativa frase di recupero di 12 parole da co
     :align: center
 
 
-La schermata successiva mostra le 12 parole preselezionate da **Eidoo**. Immettete la password scelta precedentemente e cliccate su “**SBLOCCA**” per visualizzare la **Frase di backup** o **Frase di Recupero**.
- 
-Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi serviranno per l’eventuale restore del vostro wallet.
-
-.. image:: https://i.imgur.com/bCAbcDI.png
-    :width: 500px
-    :align: center
-
+La schermata successiva mostra le 12 parole preselezionate da **Eidoo**. Immettete la password scelta precedentemente e cliccate su “**SBLOCCA**” 
     
 .. image:: https://i.imgur.com/wT1eUNq.png
     :width: 500px
     :align: center
 
+
+Ora potrete visualizzare la **Frase di backup** o **Frase di Recupero**. Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi serviranno per l’eventuale restore del vostro wallet.
+
+.. image:: https://i.imgur.com/bCAbcDI.png
+    :width: 500px
+    :align: center
 
 .. warning::
     La **frase di backup** (o *frase di recupero*, o *mnemonic seed*, o semplicemente *seed*) rappresenta la **chiave privata** del vostro wallet
@@ -85,6 +84,8 @@ Scrivete ora le 12 parole in un foglio e conservatele in luogo sicuro. Vi servir
     e raccomandiamo assolutamente di NON salvare le parole su servizi CLOUD come Google Drive, Dropbox, etc. etc.
     
     Annotatevi le 12 parole su un foglio di carta e fatene piu copie in modo da avere un backup sicuro in diversi luoghi.
+    
+    **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
 
 **ATTENZIONE AI TRUFFATORI** ⚠️
 Non appena entrerete nelle chat Telegram di Eidoo e farete una domanda potreste ricevere messaggi privati da parte di utenti malevoli che si spacciano per gli amministratori o il supporto di Eidoo. Cercheranno di estorcervi la frase di recupero del vostro wallet per svuotarlo immediatamente. Non rispondete ai messaggi privati e e riportate l'account come account di SPAM a Telegram.
@@ -96,18 +97,14 @@ Non appena entrerete nelle chat Telegram di Eidoo e farete una domanda potreste 
 🚫 Il team Eidoo non vi proporrà MAI vendite private o bonus
 
 🚫 Il team Eidoo non utilizzerà mai Google Docs o Google Forms
-    
 
-.. warning::
-    **NON CONDIVIDETE MAI LA FRASE DI RECUPERO CON NESSUNO!**
+Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle.
 
 .. image:: https://i.imgur.com/BdVdMbB.png
     :width: 500px
     :align: center
 
-Una volta scritte su un foglio (attenzione all’ordine delle parole perché è FONDAMENTALE), premete **INIZIA VERIFICA**. Il sistema si assicurerà che abbiate annotato correttamente le parole e vi chiederà di reinserirle. 
-
-Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**; vi saranno richieste tutte e dodici le parole.
+Scrivete le parole richieste una alla volta, aiutandovi con i suggerimenti e alla fine premete **AVANTI**; vi saranno richieste tutte e 12 le parole.
 
 Riceverete la conferma della avvenuta procedura di backup del seed, cliccate nuovamente su **AVANTI**.
  
@@ -115,7 +112,7 @@ Riceverete la conferma della avvenuta procedura di backup del seed, cliccate nuo
     :width: 500px 
     :align: center
 
-Prima di aprire il wallet vero e proprio, Eidoo vi chiederà se volete condividere i vostri dati di utilizzo della app in maniera anonima con il team di sviluppo. Questa feature è molto utile agli sviluppatori di Eidoo per capire l’utilizzo della app e migliorarne la stabilità, ed è assolutamente sicura in quanto non viene condiviso nessun dato personale o del portafoglio, tantomeno la vostra chiave privata.
+Prima di aprire il wallet vero e proprio, Eidoo vi chiederà se volete condividere i vostri dati di utilizzo della app in maniera anonima con il team di sviluppo. Questa feature è molto utile agli sviluppatori di Eidoo per capire l’utilizzo della app e migliorarne la stabilità, ed è assolutamente sicura in quanto non viene condiviso nessun dato personale o del portafogli.
 
 Decidete quindi se supportare lo sviluppo di Eidoo o meno cliccando rispettivamente su “**CONDIVIDI DATI ANONIMI**” o “**NON CONDIVIDERE**”.
  
