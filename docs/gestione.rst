@@ -19,7 +19,7 @@ Eidoo supporta le seguenti criptovalute:
 Visualizzazione dell’indirizzo di deposito di una delle criptovalute supportate
 -------------------------------------------------------------------------------
 
-La schermata principale **“I tuoi asset”** mostra il saldo complessivo del vostro wallet. Essendo il wallet appena creato è chiaramente vuoto: 0 BTC, 0 ETH, 0 LTC, etc. etc. Le valute supportate da Eidoo sono **Bitcoin**, **Litecoin**, **Ether**, token **ERC20** (PNT, USDT, DAI, BAT, etc., 
+La schermata principale **“I tuoi asset”** mostra il saldo complessivo del vostro wallet. Essendo il wallet appena creato è chiaramente vuoto: 0 BTC, 0 ETH, 0 LTC, etc. etc. Le valute supportate da Eidoo sono **Bitcoin**, **Litecoin**, **Ether**, token **ERC20** e **ERC223** (PNT, USDT, DAI, BAT, etc., 
 `qui <https://eidoo.io/erc20-tokens-list>`_ una lista completa) e i token **NFT**.
 
 Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto visualizzare il vostro indirizzo di deposito (o *address*).
