@@ -77,7 +77,7 @@ Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset
     :width: 500px
     :align: cente
 
-Lo storico delle transazioni di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
+Lo `storico delle transazioni <https://eidoo.readthedocs.io/it/latest/gestione.html#storico-delle-proprie-transazioni>`_ di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
 
 .. image:: https://i.imgur.com/7CPVVqG.jpg
     :width: 500px
@@ -144,26 +144,26 @@ Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una 
     :align: center
 
 In questa schermata è presente anche una opzione avanzata per inserire una stringa nel campo **Data (hexadecimal)**. Non utilizzatela a meno che non sappiate quello che state facendo, la maggior parte dei casi non vi servirà.
-Una volta inserite le informazioni, premete su **CONFERMA CON PASSWORD** se siete nella schermata di **Impostazioni Avanzate** o su **PROCEDI** se siete nella schermata **Trasferisci dal wallet personale.**
+Una volta inserite le informazioni, premete su "**CONFERMA CON PASSWORD**" se siete nella schermata di **Impostazioni Avanzate** o su "**PROCEDI**" se siete nella schermata **Trasferisci dal wallet personale**.
 
-.. image:: https://i.imgur.com/hD0CIh8.jpg
+.. image:: https://i.imgur.com/MPwDOMH.jpg
     :width: 500px
     :align: center
     
-.. image:: https://i.imgur.com/qKV6BIV.jpg
+.. image:: https://i.imgur.com/wqexsQA.jpg
     :width: 500px
     :align: center
     
 Dovete ora confermare inserendo la vostra **password di spesa**, quella che avete scelto inizialmente per il wallet.
 Inserite la password e cliccate su “**CONFERMA**” per spedire la transazione.
  
-.. image:: https://i.imgur.com/euBXcBD.jpg
+.. image:: https://i.imgur.com/yh48Rwl.jpg
     :width: 500px
     :align: center
 
-Una schermata di conferma apparirà quando la transazione sarà stata inviata alla blockchain. Cliccate su “**VAI ALLA LISTA DI TRANSAZIONI**” per vedere le transazioni relative a questo asset (vedi capitolo dedicato).
+Una schermata di conferma apparirà quando la transazione sarà stata inviata alla blockchain. Cliccate su “**VAI ALLA LISTA DI TRANSAZIONI**” per vedere lo storico delle transazioni relative a questo asset.
  
-.. image:: https://i.imgur.com/mp0oYq3.jpg
+.. image:: https://i.imgur.com/dekvRXU.jpg
     :width: 500px
     :align: center
 
@@ -172,7 +172,7 @@ Storico delle proprie transazioni
 
 Dalla schermata principale premete sulla criptovaluta di cui volete visualizzare la storia delle transazioni, ad esempio ETH.
 
-.. image:: https://i.imgur.com/saZSRgc.jpg
+.. image:: https://i.imgur.com/Stpho2W.jpg
     :width: 500px
     :align: center
 
@@ -216,13 +216,13 @@ Il mercato dei token NFT è in pieno sviluppo e questa funzionalità di Eidoo un
 
 In particolare Eidoo supporta i token NFT su Ethereum. Per vedere i vostri NFT scorrete il banner centrale fino a quando non trovate "**NFT Manager**".
 
-.. image:: https://i.imgur.com/KJ9NIp2.jpg
+.. image:: https://i.imgur.com/rFD36Ny.jpg
     :width: 500px
     :align: center
 
 Cliccateci sopra e scegliete "**MANAGE MY NFTS**" per vedere e spedire i vostri NFT.
 
-.. image:: https://i.imgur.com/tOL7ZHd.jpg
+.. image:: https://i.imgur.com/MYyiVLQ.jpg
     :width: 500px
     :align: center
 
