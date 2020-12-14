@@ -13,7 +13,7 @@ Eidoo supporta le seguenti criptovalute:
 * Litecoin (LTC)
 * Ethereum (ETH)
    * token ERC20
-   * token ERC23
+   * token ERC223
    * token ERC721 (NFT, token non fungibili)
 
 Visualizzazione dell’indirizzo di deposito di una delle criptovalute supportate
