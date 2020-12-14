@@ -29,13 +29,13 @@ Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto vis
 
 Cliccate in alto a destra il **QR code** per visualizzare il menu per la scelta della criptovaluta da depositare.
 
-.. image:: https://i.imgur.com/ViVjALd.jpg
+.. image:: https://i.imgur.com/PK4nGrB.jpg
     :width: 500px
     :align: center
 
 Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**.
 
-.. image:: https://i.imgur.com/uHWDfKT.jpg
+.. image:: https://i.imgur.com/Stpho2W.jpg
     :width: 500px
     :align: center
 
@@ -43,11 +43,11 @@ Cliccando su **AGGIUNGI FONDI** in basso al centro, o su Deposito in alto a sini
 
 In basso trovate anche il relativo **indirizzo di deposito** in formato esadecimale. Con i tasti **"CONDIVIDI"** e **"COPIA"** potete rispettivamente inviare il vostro address tramite SMS, mail, social o copiare l'indirizzo completo nella memoria del vostro smartphone.
 
-.. image:: https://i.imgur.com/3FcxdZZ.jpg
+.. image:: https://i.imgur.com/xHHBfKV.jpg
     :width: 500px
     :align: center
 
-Per ricevere token **ERC20 e ERC223** si utilizza lo stesso identico **address di Ethereum**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerlo è identico.
+Per ricevere token **ERC20** e **ERC223** si utilizza lo stesso identico **address di Ethereum**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerlo è identico.
 
 Eidoo non supporta la generazione di indirizzi con un importo predeterminato (EIP-681).
 
@@ -90,14 +90,14 @@ Una volta che nel wallet sono presenti dei fondi diventa possibile trasferirli a
 Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che volete trasferire. L’immagine seguente mostra ad il wallet di ETH dopo diverse operazioni (le operazioni a 0 ETH sono operazioni con smart contract come quello dell’exchange di Eidoo).
 Per l’invio di ETH, dopo aver premuto **ETH** nella schermata principale. Cliccate sul tasto **Trasferisci**.
 
-.. image:: https://i.imgur.com/suMgNU3.jpg
+.. image:: https://i.imgur.com/i34brCk.jpg
     :width: 500px
     :align: center
 
 
 Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate nel campo  **Scegli beneficiario**.
 
-.. image:: https://i.imgur.com/7wkk68y.jpg
+.. image:: https://i.imgur.com/qn16rix.jpg
     :width: 500px
     :align: center
 
@@ -105,7 +105,7 @@ Potete a questo punto **incollare l’indirizzo** che avete copiato precedenteme
  
 Eidoo supporta anche gli **indirizzi ENS**.
 
-.. image:: https://i.imgur.com/cWml80Y.jpg
+.. image:: https://i.imgur.com/wPYHAyr.jpg
     :width: 500px
     :align: center
 
@@ -130,7 +130,7 @@ Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra i
 
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
-.. image:: https://i.imgur.com/qKV6BIV.jpg
+.. image:: https://i.imgur.com/SIhFbmM.jpg
     :width: 500px
     :align: center
 
@@ -139,7 +139,7 @@ Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una 
 * immettere manualmente il **Gas Limit***;
 * aumentare o diminuire il Gas di 1000 unità alla volta con i tasti **+** e **–**.
 
-.. image:: https://i.imgur.com/8PrVr29.jpg
+.. image:: https://i.imgur.com/KMiI7Iy.jpg
     :width: 500px
     :align: center
 
@@ -179,7 +179,7 @@ Dalla schermata principale premete sulla criptovaluta di cui volete visualizzare
 Cliccando su ciascuna transazione visualizzerete i dettagli della stessa. Premendo invece su sul simbolo "**<**" in alto a sinistra tornerete alla
 schermata iniziale “**I tuoi asset**”.
 
-.. image:: https://i.imgur.com/06QyRa9.jpg
+.. image:: https://i.imgur.com/PX8mUX6.jpg
     :width: 500px
     :align: center
 
