@@ -39,7 +39,18 @@ Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**.
     :width: 500px
     :align: center
 
-Cliccando su **AGGIUNGI FONDI** in basso al centro, o su Deposito in alto a sinistra visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
+Se non avete nessuna transazione potete cliccare sul tasto verde **AGGIUNGI FONDI** al centro della schermata o su Deposito in alto a sinistra. Nel caso in cui abbiate già  delle transazioni potete cliccare su Deposito.
+
+.. image:: 
+    :width: 500px
+    :align: center
+    
+    
+.. image:: 
+    :width: 500px
+    :align: center
+
+In ogni caso visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
 
 In basso trovate anche il relativo **indirizzo di deposito** in formato esadecimale. Con i tasti **"CONDIVIDI"** e **"COPIA"** potete rispettivamente inviare il vostro address tramite SMS, mail, social o copiare l'indirizzo completo nella memoria del vostro smartphone.
 
