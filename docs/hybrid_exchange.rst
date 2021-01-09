@@ -51,7 +51,7 @@ Verificate sempre attentamente i volumi e scegliete il pair che vi interessa.
 
 Potete anche ordinare i token in base al Prezzo, al Volume, alla variazione delle ultime 24 ore (24h Var) cliccando sulle rispettive scritte, o potete ricercare un token specifico immettendo il suo simbolo nel campo di ricerca.
 
-Dalla schermata del book dell'exchange scegliete il pair, in questo caso ETH/USDT, inserite l'importo e confermate inserendo la password di spesa. 
+Dalla schermata del book dell'exchange scegliete il pair, in questo caso **ETH/USDT**, inserite l'importo, cliccate su "**VERIFICA ORDINE**" e confermate inserendo la password di spesa dopo aver cliccato su "**CONFERMA ORDINE**".
 
 .. image:: https://i.imgur.com/E37Sw3k.gif
     :width: 500px
