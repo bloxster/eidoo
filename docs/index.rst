@@ -18,7 +18,7 @@ Guida Completa all'Utilizzo di Eidoo Wallet
 - **Eidoo Card**, una carta di debito per spendere le criptovalute nel proprio wallet, con diversi livelli di benefici e payback;
 - **EidooID**, uno strumento per soddisfare i requisiti KYC/AML necessari.
 
-La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. 
+La roadmap di Eidoo è ricca di feature interessanti, visitate il sito ufficiale `eidoo.io <https://www.eidoo.io>`_ e i canali social per rimanere informati e ricevere assistenza dalla community di Eidoo. 
 
 .. note::
    Per informazioni più approfondite sui prodotti di Eidoo visitate l’Help Center ufficiale all'indirizzo https://eidoohelp.zendesk.com/hc/it
