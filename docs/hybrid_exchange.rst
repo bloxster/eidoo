@@ -7,7 +7,22 @@ In pratica Eidoo Hybrid Exchange è centralizzato per quanto riguarda l'order bo
 
 Il **trade minimo** è di 20 USDT e le **commissioni di scambio** sono pagate dall’utente in token **PNT**.
 
-Come ogni altro DEX, per fare degli scambi è necessario trasferire i token sul **TRADING WALLET**. L’interfaccia è molto intuitiva, andremo a vedere brevemente come piazzare un ordine. 
+
++------------------------------------------------------------------------------+---------------------------------------+
+| Azione                                                                       | Commissione                           |
++==============================================================================+=======================================+
+| Piazzare un ordine                                                           | **FREE**                              | 
++------------------------------------------------------------------------------+---------------------------------------+
+| Cancellare un ordine o un ordine parziale                                    | **FREE**                              |
++------------------------------------------------------------------------------+---------------------------------------+
+| Ordine o ordine parziale eseguito immediatamente per vendere o comprare ETH  | 0.82 PNT per ogni ETH                 |
++------------------------------------------------------------------------------+---------------------------------------+
+| Ordine o ordine parziale eseguito immediatamente per vendere o comprare USDT | 0.0036 PNT per ogni ETH               |
++------------------------------------------------------------------------------+---------------------------------------+
+| Ordine o ordine parziale non eseguito immediatamente                         | **FREE**                              |
++------------------------------------------------------------------------------+---------------------------------------+
+
+Come ogni altro DEX, per fare degli scambi è necessario trasferire i token sul **TRADING WALLET**, compresi i PNT richiesti per le commissioni. L’interfaccia è molto intuitiva, andremo a vedere brevemente come piazzare un ordine. 
  
 Dalla schermata principale cliccate sul tasto di exchange in basso a sinistra.
 
