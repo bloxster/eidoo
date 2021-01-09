@@ -11,13 +11,13 @@ Come ogni altro DEX, per fare degli scambi è necessario trasferire i token sul 
  
 Dalla schermata principale cliccate sul tasto di exchange in basso a sinistra.
 
-.. image:: https://i.imgur.com/XDhKINB.jpg
+.. image:: https://i.imgur.com/qug3M8I.png
     :width: 500px
     :align: center
  
 Eidoo dispone anche di un Exchange DeFi che vedremo in seguito. Cliccate su “**Eidoo Hybrid Exchange**” per continuare sull exchange ibrido.
 
-.. image:: https://i.imgur.com/TlpwUbl.jpg
+.. image:: https://i.imgur.com/nTZE3v0.png
     :width: 500px
     :align: center
  
@@ -27,17 +27,25 @@ Se non avete mai utilizzato l'exchange ibrido di Eidoo dovete aggiornare il vost
     :width: 500px
     :align: center
 
-Confermate la transazione, una volta che sarà inclusa nella blockchain vi apparirà la schermata dell'exchange.
+Confermate la transazione, una volta che sarà inclusa nella blockchain potrete iniziare a utilizzare l'exchange ibrido.
 
+Per ricaricare il vostro **TRADING WALLET** dovete tornare alla schermata che vi permette di scegliere tra *DeFi Exchange* e *Eidoo Hybrid Exchange*. In alto a destra scegliete "**TRADING WALLET**".
 
+.. image:: https://i.imgur.com/NZiER3g.png
+    :width: 500px
+    :align: center
 
-Cliccate quindi sul menu **TRADING WALLET** e “**+ RICARICA**” per fare una transazione che sposti i vostri token sul vostro account di trading in modo appunto da ricaricare il vostro conto di trading. Procedete inserendo la password in modo da firmare la transazione sulla blockchain di Ethereum che sarà pagata in ether.
+Cliccate quindi su “**+ RICARICA**” per fare una transazione che sposti i vostri token sul vostro account di trading in modo appunto da ricaricarlo. Procedete inserendo la password in modo da firmare la transazione sulla blockchain di Ethereum che sarà pagata in ether.
 
 .. image:: https://i.imgur.com/55iovbU.gif
     :width: 500px
     :align: center
  
 Una volta ricaricato il **TRADING WALLET** La schermata dell’exchange contiene una lista di tutte le coppie di trading disponibili, con prezzo, volumi e variazione delle ultime 24 ore.
+
+.. image:: https://i.imgur.com/HVOTfFd.png
+    :width: 500px
+    :align: center
 
 Verificate sempre attentamente i volumi e scegliete il pair che vi interessa.
 
