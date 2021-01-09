@@ -3,45 +3,41 @@ Eidoo Hybrid Exchange
 
 L’exchange di Eidoo permette di scambiare ETH e i token ERC20 (ad esempio USDT, PNT), e utilizza una tecnologia ibrida sviluppata interamente da Eidoo per avere i vantaggi di sicurezza di un exchange decentralizzato (DEX) ed offrire un’esperienza utente di un exchange centralizzato.
 
-In pratica Eidoo Hybrid Exchange è centralizzato in quanto l'order book è salvato su un database, ma allo stesso tempo è decentralizzato in quanto tutti gli asset sono nel wallet dell’utente, che continuerà ad averne il pieno controllo fino a completamento dell'ordine. I fondi transitano sempre e solo tra smart contract e non sono mai in custodia presso una terza parte.
+In pratica Eidoo Hybrid Exchange è centralizzato per quanto riguarda l'order book (salvato su un database di Eidoo), ma è decentralizzato in quanto tutti gli asset sono nel wallet dell’utente, che continuerà ad averne il pieno controllo fino a completamento dell'ordine. I fondi transitano sempre e solo tra smart contract e non sono mai in custodia presso una terza parte.
 
-Essendo che l’esecuzione degli ordini avviene on-chain, e considerando che Eidoo paga le commissioni di rete, il trade minimo è di 0.2 ETH. Le commissioni di scambio sono pagate invece pagate dall’utente in PNT. 
+Il **trade minimo** è di 20 USDT e le **commissioni di scambio** sono pagate dall’utente in token **PNT**.
 
-Come ogni altro DEX, per fare degli scambi è necessario trasferire i token sul TRADING WALLET. L’interfaccia è molto intuitiva, andremo a vedere brevemente come piazzare un ordine. 
+Come ogni altro DEX, per fare degli scambi è necessario trasferire i token sul **TRADING WALLET**. L’interfaccia è molto intuitiva, andremo a vedere brevemente come piazzare un ordine. 
  
 Dalla schermata principale cliccate sul tasto di exchange in basso a sinistra.
 
-
- 
-
+.. image:: https://i.imgur.com/XDhKINB.jpg
+    :width: 500px
+    :align: center
  
-Eidoo dispone anche di un Exchange DeFi che vedremo in seguito. Cliccate su “Eidoo Hybrid Exchange” per continuare sull exchange ibrido.
+Eidoo dispone anche di un Exchange DeFi che vedremo in seguito. Cliccate su “**Eidoo Hybrid Exchange**” per continuare sull exchange ibrido.
 
-
-  
-
+.. image:: https://i.imgur.com/TlpwUbl.jpg
+    :width: 500px
+    :align: center
  
-Cliccate quindi sul menu TRADING WALLET e “+ RICARICA” per fare una transazione che sposti i vostri token sul vostro account di trading in modo appunto da ricaricare il vostro conto di trading.
+Se non avete mai utilizzato l'exchange ibrido di Eidoo dovete aggiornare il vostro address con una transazione da 0 ether. Cliccate su "**PROCEDI CON LA TRANSAZIONE**".
+
+.. image:: https://i.imgur.com/OZPbcdO.png
+    :width: 500px
+    :align: center
+
+Confermate la transazione, una volta che sarà inclusa nella blockchain vi apparirà la schermata dell'exchange.
 
 
- 
 
+Cliccate quindi sul menu **TRADING WALLET** e “**+ RICARICA**” per fare una transazione che sposti i vostri token sul vostro account di trading in modo appunto da ricaricare il vostro conto di trading. Procedete inserendo la password in modo da firmare la transazione sulla blockchain di Ethereum che sarà pagata in ether.
+
+.. image:: https://i.imgur.com/55iovbU.gif
+    :width: 500px
+    :align: center
  
-Scegliete ora l’asset che volete spostare sull’account di trading (nell’esempio in basso Ethereum), inserite l’importo desiderato e cliccate su PROCEDI.
-
-
-   
- 
-In alto nel banner nero potete visualizzare il saldo del token. Una schermata vi mostrerà i dettagli della transazione che state per fare. 
- 
-Inserite la password di spesa e cliccate su CONFERMA TRANSAZIONE.
-
-
- 
-
-
-Una schermata di conferma vi informerà che la transazione è stata propagata nella blockchain e attende di essere inclusa in un blocco. Il vostro wallet di trading si aggiornerà alla prima conferma di rete.  
-La schermata dell’exchange contiene una lista di tutte le coppie di trading disponibili, con prezzo, volumi e variazione delle ultime 24 ore.
+Una volta ricaricato il **TRADING WALLET** La schermata dell’exchange contiene una lista di tutte le coppie di trading disponibili, con prezzo, volumi e variazione delle ultime 24 ore.
 
 Verificate sempre attentamente i volumi e scegliete il pair che vi interessa.
 
