@@ -51,24 +51,10 @@ Verificate sempre attentamente i volumi e scegliete il pair che vi interessa.
 
 Potete anche ordinare i token in base al Prezzo, al Volume, alla variazione delle ultime 24 ore (24h Var) cliccando sulle rispettive scritte, o potete ricercare un token specifico immettendo il suo simbolo nel campo di ricerca.
 
- 
+Dalla schermata del book dell'exchange scegliete il pair, in questo caso ETH/USDT, inserite l'importo e confermate inserendo la password di spesa. 
 
+.. image:: https://i.imgur.com/E37Sw3k.gif
+    :width: 500px
+    :align: center
 
-In questo caso abbiamo scelto il trade EDO/ETH.
-
-Viene visualizzata quindi la schermata con il book dell’exchange e cliccate sull’opzione che vi interessa, COMPRA o VENDI.
-
- 
-
- 
-Inserite l’importo che volete scambiare nel campo Ammontare e confermate cliccando su VERIFICA ORDINE. Se l’ordine è inferiore di 0.2 ETH la transazione non può essere completata e riceverete un warning.
-
- 
-
-
-Inserite la password e una volta confermata la transazione avrete terminato lo scambio.
-
-Il bilancio del vostro wallet di trading si aggiornerà automaticamente.
-
-
- 
+Una volta confermata l'operazione il bilancio del vostro wallet di trading si aggiornerà automaticamente.
