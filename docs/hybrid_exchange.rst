@@ -23,6 +23,9 @@ Il **trade minimo** è di 20 USDT e le **commissioni di scambio** sono pagate da
 +------------------------------------------------------------------------------+---------------------------------------+
 
 Come ogni altro DEX, per fare degli scambi è necessario trasferire i token sul **TRADING WALLET**, compresi i PNT richiesti per le commissioni. L’interfaccia è molto intuitiva, andremo a vedere brevemente come piazzare un ordine. 
+
+.. warning::
+    **A seconda del carico della rete di Ethereum fate attenzione ai costi di GAS necessari, potrebbe non essere vantaggioso effettuare scambi di piccoli importo.**
  
 Dalla schermata principale cliccate sul tasto di exchange in basso a sinistra.
 
