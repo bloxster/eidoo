@@ -7,7 +7,6 @@ In pratica Eidoo Hybrid Exchange è centralizzato per quanto riguarda l'order bo
 
 Il **trade minimo** è di 20 USDT e le **commissioni di scambio** sono pagate dall’utente in token **PNT**.
 
-
 +------------------------------------------------------------------------------+---------------------------------------+
 | Azione                                                                       | Commissioni                           |
 +==============================================================================+=======================================+
