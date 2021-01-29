@@ -5,9 +5,7 @@ I pTokens sono rappresentazioni di una criptovaluta su Ethereum, una “tokenizz
 
 
 .. hint::
-    Per informazioni più approfondite sul funzionamento dei pTokens visitate il sito ufficiale
-
-    `pTokens.io <https://ptokens.io/>`_ 
+    Per informazioni più approfondite sul funzionamento dei pTokens visitate il sito ufficiale `pTokens.io <https://ptokens.io/>`_ 
 
 Sul Eidoo wallet Sono al momento disponibili pBTC e pLTC, ma potete connettervi alla DAPP di pTokens tramite `WalletConnect <https://eidoo.readthedocs.io/it/latest/walletconnect.html#walletconnect-tutti-i-protocolli-a-portata-di-qr-code>`_ e utilizzare tutti gli altri pTokens.
 
