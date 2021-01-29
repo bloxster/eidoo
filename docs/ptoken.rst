@@ -59,7 +59,7 @@ Se volete ad esempio convertire dei pBTC in BTC per prima cosa copiate nella mem
 
 Dalla schermata principale di Eidoo trascinate a destra/sinistra il **banner centrale fino** a che non appare "**Manage your pTokens**" e cliccateci sopra. Cliccate su "**GET BTC FROM PBTC**" e incollate l'indirizzo sul quale volete ricevere i bitcoin.
 
-.. image:: https://i.imgur.com/oYNgBQe.gif
+.. image:: https://i.imgur.com/2bLGFv0.gif
     :width: 300px
     :align: center
 
