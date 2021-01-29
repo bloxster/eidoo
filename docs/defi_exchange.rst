@@ -11,7 +11,12 @@ Per andare sull’exchange cliccate sul simbolo di exchange in basso a sinistra 
  
 Il funzionamento è molto simile allo swap descritto nel capitolo `dedicato <https://eidoo.readthedocs.io/it/latest/swap.html#swap-di-ether-e-token-erc20>`_.
 
-Eidoo Defi Exchange mostra già al momento della scelta del token l’interesse annuale fornito al momento che sottolineiamo che non è fisso ma varia continuamente. Dopo aver scelto il token la schermata è identica a quella di SWAP, basta inserire la quantità che si vuole spendere o che si vuole ottenere.
+Eidoo Defi Exchange mostra già al momento della scelta del token l’interesse annuale.
+
+.. note::
+    L'interesse fornito dai protocolli di DeFi non è mai fisso ma varia in base alle condizioni di mercato. Fate le vostre ricerche prima di investire in questi asset sintetici.
+
+Dopo aver scelto il token la schermata è identica a quella di SWAP, basta inserire la quantità che si vuole spendere o che si vuole ottenere.
  
 Viene sempre mostrato chiaramente quale protocollo state utilizzando. Gli asset della DeFi vengono mostrati nella schermata principale ““I tuoi asset””, dove oltre al loro valore e il loro **controvalore** nella vostra valuta fiat preferita, vi verrà mostrato anche il **Bilancio sottostante**, gli **Interessi Attivi** e l’**interesse annuale corrente**.
 
