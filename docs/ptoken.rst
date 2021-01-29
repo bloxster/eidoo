@@ -55,7 +55,7 @@ Convertire pTokens negli asset originali
 
 Se volete ad esempio convertire dei pBTC in BTC per prima cosa copiate nella memoria del vostro smartphone l' `indirizzo <https://eidoo.readthedocs.io/it/latest/gestione.html#visualizzazione-dellindirizzo-di-deposito-di-una-delle-criptovalute-supportate>`_ sul quale volete ricere i bitcoin.
 
-Dalla schermata principale di Eidoo trascinate a destra/sinistra il **banner centrale fino** a che non appare "**Manage your pTokens**" e cliccateci sopra. Cliccate su "**GET BTC FROM PBTC**" e incollate l'indirizzo sul quale volete ricevere i bitcoin.
+Dalla schermata principale di Eidoo trascinate a destra/sinistra il **banner centrale fino** a che non appare "**Manage your pTokens**" e cliccateci sopra. Cliccate su "**GET BTC FROM PBTC**" e incollate l'indirizzo sul quale volete ricevere i bitcoin. Cliccate poi su "***Procedi**" e "**OPEN**" nela pagina del browser che si aprirà temporaneamente.
 
 .. image:: https://i.imgur.com/2bLGFv0.gif
     :width: 300px
