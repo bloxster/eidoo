@@ -14,7 +14,7 @@ Il funzionamento è molto simile allo swap descritto nel capitolo `dedicato <htt
 Eidoo Defi Exchange mostra già al momento della scelta del token l’interesse annuale.
 
 .. note::
-    L'interesse fornito dai protocolli di DeFi non è mai fisso ma varia in base alle condizioni di mercato. Fate le vostre ricerche prima di investire in questi asset sintetici.
+    L'interesse fornito dai protocolli di DeFi non è mai fisso ma varia in base alle condizioni di mercato. Fate le vostre ricerche prima di investire in questi asset.
 
 Dopo aver scelto il token la schermata è identica a quella di SWAP, basta inserire la quantità che si vuole spendere o che si vuole ottenere.
  
