@@ -31,7 +31,6 @@ Indice dei contenuti
    
    download
    i_tuoi_asset
-   schermata_principale
    gestione
    rubrica
    hybrid_exchange
