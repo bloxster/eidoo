@@ -30,24 +30,24 @@ Per ricevere sul vostro wallet un di queste criptovalute dovete innanzitutto vis
 Cliccate in alto a destra il **QR code** per visualizzare il menu per la scelta della criptovaluta da depositare.
 
 .. image:: https://i.imgur.com/PK4nGrB.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Cliccate sulla criptovaluta che volete gestire, ad esempio **ETH**.
 
 .. image:: https://i.imgur.com/Stpho2W.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Se non avete nessuna transazione potete cliccare sul tasto verde **AGGIUNGI FONDI** al centro della schermata o su Deposito in alto a sinistra. Nel caso in cui abbiate già  delle transazioni potete cliccare su Deposito.
 
 .. image:: 
-    :width: 500px
+    :width: 300px
     :align: center
     
     
 .. image:: 
-    :width: 500px
+    :width: 300px
     :align: center
 
 In ogni caso visualizzerete il vostro **QR CODE** al centro. Questo può essere utile nel caso in cui vogliate ricevere un pagamento da un amico che utilizza a sua volta un wallet mobile come Eidoo. Semplicemente inquadrando questo codice il wallet è in grado di determinare il vostro address. 
@@ -55,7 +55,7 @@ In ogni caso visualizzerete il vostro **QR CODE** al centro. Questo può essere 
 In basso trovate anche il relativo **indirizzo di deposito** in formato esadecimale. Con i tasti **"CONDIVIDI"** e **"COPIA"** potete rispettivamente inviare il vostro address tramite SMS, mail, social o copiare l'indirizzo completo nella memoria del vostro smartphone.
 
 .. image:: https://i.imgur.com/xHHBfKV.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Per ricevere token **ERC20** e **ERC223** si utilizza lo stesso identico **address di Ethereum**. I wallet di Bitcoin e Litecoin hanno invece un indirizzo completamente diverso, ma il meccanismo per visualizzare l’address e condividerlo è identico.
@@ -85,13 +85,13 @@ Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate 
 Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist <http://cryptonomist.com/>`_.
 
 .. image:: https://i.imgur.com/Ps42tLA.jpg
-    :width: 500px
+    :width: 300px
     :align: cente
 
 Lo `storico delle transazioni <https://eidoo.readthedocs.io/it/latest/gestione.html#storico-delle-proprie-transazioni>`_ di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
 
 .. image:: https://i.imgur.com/7CPVVqG.jpg
-    :width: 500px
+    :width: 300px
     :align: cente
 
 Invio dei token e delle criptovalute supportate
@@ -102,14 +102,14 @@ Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che 
 Per l’invio di ETH, dopo aver premuto **ETH** nella schermata principale. Cliccate sul tasto **Trasferisci**.
 
 .. image:: https://i.imgur.com/i34brCk.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 
 Dovete ora inserire l’indirizzo a cui volete trasferire gli ether. Cliccate nel campo  **Scegli beneficiario**.
 
 .. image:: https://i.imgur.com/qn16rix.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Potete a questo punto **incollare l’indirizzo** che avete copiato precedentemente nella clipboard del vostro dispositivo scegliendo **Incolla**, o scannerizzare un **QRCode** con la fotocamera dello smartphone per acquisire direttamente l’indirizzo da un altro dispositivo cliccando su **Scannerizza un codice QR**. Questa funzione è molto utile per mandare importi ad un amico che ha una app sul telefono o a un sito web che visualizza il codice QR.
@@ -117,7 +117,7 @@ Potete a questo punto **incollare l’indirizzo** che avete copiato precedenteme
 Eidoo supporta anche gli **indirizzi ENS**.
 
 .. image:: https://i.imgur.com/wPYHAyr.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato esadecimale, eliminando così ogni possibilità di errore umano.  Gli unici indirizzi che si possono inserire manualmente sono gli indirizzi ENS.
@@ -142,7 +142,7 @@ Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra i
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
 .. image:: https://i.imgur.com/SIhFbmM.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una transazione di **priorità media**. In alternativa potete cliccare in alto a sinistra sul simbolo di equalizzazione e: 
@@ -151,31 +151,31 @@ Eidoo calcolerà in automatico il prezzo la quantità di GAS necessaria per una 
 * aumentare o diminuire il Gas di 1000 unità alla volta con i tasti **+** e **–**.
 
 .. image:: https://i.imgur.com/KMiI7Iy.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 In questa schermata è presente anche una opzione avanzata per inserire una stringa nel campo **Data (hexadecimal)**. Non utilizzatela a meno che non sappiate quello che state facendo, la maggior parte dei casi non vi servirà.
 Una volta inserite le informazioni, premete su "**CONFERMA CON PASSWORD**" se siete nella schermata di **Impostazioni Avanzate** o su "**PROCEDI**" se siete nella schermata **Trasferisci dal wallet personale**.
 
 .. image:: https://i.imgur.com/MPwDOMH.jpg
-    :width: 500px
+    :width: 300px
     :align: center
     
 .. image:: https://i.imgur.com/wqexsQA.jpg
-    :width: 500px
+    :width: 300px
     :align: center
     
 Dovete ora confermare inserendo la vostra **password di spesa**, quella che avete scelto inizialmente per il wallet.
 Inserite la password e cliccate su “**CONFERMA**” per spedire la transazione.
  
 .. image:: https://i.imgur.com/yh48Rwl.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Una schermata di conferma apparirà quando la transazione sarà stata inviata alla blockchain. Cliccate su “**VAI ALLA LISTA DI TRANSAZIONI**” per vedere lo storico delle transazioni relative a questo asset.
  
 .. image:: https://i.imgur.com/dekvRXU.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Storico delle proprie transazioni
@@ -184,14 +184,14 @@ Storico delle proprie transazioni
 Dalla schermata principale premete sulla criptovaluta di cui volete visualizzare la storia delle transazioni, ad esempio ETH.
 
 .. image:: https://i.imgur.com/Stpho2W.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Cliccando su ciascuna transazione visualizzerete i dettagli della stessa. Premendo invece su sul simbolo "**<**" in alto a sinistra tornerete alla
 schermata iniziale “**I tuoi asset**”.
 
 .. image:: https://i.imgur.com/PX8mUX6.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Lo storico delle transazioni è di facile lettura grazie anche alle icone che vi permettono di capire immediatamente che tipo di transazioni sono e il
@@ -228,13 +228,13 @@ Il mercato dei token NFT è in pieno sviluppo e questa funzionalità di Eidoo un
 In particolare Eidoo supporta i token NFT su Ethereum. Per vedere i vostri NFT scorrete il banner centrale fino a quando non trovate "**NFT Manager**".
 
 .. image:: https://i.imgur.com/rFD36Ny.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Cliccateci sopra e scegliete "**MANAGE MY NFTS**" per vedere e spedire i vostri NFT.
 
 .. image:: https://i.imgur.com/MYyiVLQ.jpg
-    :width: 500px
+    :width: 300px
     :align: center
 
 Cliccando su "**DISCOVER NFTS**" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese di approfondimento sul sito di OpenSea, uno dei maggiori mercati di NFT.
