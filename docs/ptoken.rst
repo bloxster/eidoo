@@ -63,4 +63,4 @@ Dalla schermata principale di Eidoo trascinate a destra/sinistra il **banner cen
     :width: 300px
     :align: center
 
-Finalizzate poi la transazione, dovrete immettere la vostra password di spesa, 
+Finalizzate poi la transazione, dovrete immettere la vostra password di spesa, e una volta avvenute le necessarie conferme di rete il saldo del vostro wallet verrà aggiornato.
