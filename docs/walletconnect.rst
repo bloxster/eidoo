@@ -88,7 +88,7 @@ Confermate la vostra scelta cliccando su “DISCONNECT”.
     :width: 300px
     :align: center
  
- 
+ Nella schermata di WalletConnect potete anche collegarvi ad altre DAPP cliccando su “**Scan QR code**”.
 
 
 
