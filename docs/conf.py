@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Guida Completa di Eidoo'
+project = u'Eidoo Wallet'
 copyright = u'GNU General License'
 
 # The version info for the project you're documenting, acts as replacement for
