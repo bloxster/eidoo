@@ -4,7 +4,7 @@ WalletConnect, tutti i protocolli a portata di QR code
 .. image:: https://i.imgur.com/n6u6AJ1.png
     :align: center
 
- `Walletconnect https://walletconnect.org`_. è un protocollo open source per il collegamento di applicazioni decentralizzate a wallet mobile tramite scansione del codice QR. Un utente può interagire in modo sicuro con qualsiasi Dapp dal proprio telefono cellulare, rendendo i portafogli WalletConnect una scelta più sicura rispetto ai portafogli di estensione per desktop o browser. 
+`WalletConnect <https://walletconnect.org>`_ è un protocollo open source per il collegamento di applicazioni decentralizzate a wallet mobile tramite scansione del codice QR. Un utente può interagire in modo sicuro con qualsiasi Dapp dal proprio telefono cellulare, rendendo i portafogli WalletConnect una scelta più sicura rispetto ai portafogli di estensione per desktop o browser. 
 
 WalletConnect è utilizzato dalla maggior parte delle dapp di Ethereum.
 
@@ -16,7 +16,7 @@ La sessione di WalletConnect viene avviata mediante la scansione di un codice QR
 
 .. note::
     Nel caso vogliate sperimentare una Dapp verificate che sia supportata da WalletConnect, a questo indirizzo la lista completa:
-    `walletconnect.org/apps https://walletconnect.org/apps/`_.
+    `walletconnect.org/apps <https://walletconnect.org/apps/>`_.
  
 Andate quindi in alto a destra nella schermata principale e cliccate sul simbolo di WalletConnect.
 
