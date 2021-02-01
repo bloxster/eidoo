@@ -1,13 +1,18 @@
 WalletConnect, tutti i protocolli a portata di QR code
 ======================================================
 
-WalletConnect è un protocollo open source per il collegamento di applicazioni decentralizzate a wallet mobile tramite scansione del codice QR. Un utente può interagire in modo sicuro con qualsiasi Dapp dal proprio telefono cellulare, rendendo i portafogli WalletConnect una scelta più sicura rispetto ai portafogli di estensione per desktop o browser.
+.. image:: https://i.imgur.com/n6u6AJ1.png
+    :align: center
 
-La sessione di WalletConnect viene avviata mediante la scansione di un codice QR (desktop) o facendo clic su un deep link dell'applicazione (dispositivo mobile). Una volta collegati sulla dApp scelta potrete continuare ad operare dal PC. Ogni volta sarà necessaria la firma di una transazione dovrete utilizzare invece il wallet mobile di Eidoo.
+ `Walletconnect https://walletconnect.org`_. è un protocollo open source per il collegamento di applicazioni decentralizzate a wallet mobile tramite scansione del codice QR. Un utente può interagire in modo sicuro con qualsiasi Dapp dal proprio telefono cellulare, rendendo i portafogli WalletConnect una scelta più sicura rispetto ai portafogli di estensione per desktop o browser. 
+
+WalletConnect è utilizzato dalla maggior parte delle dapp di Ethereum.
 
 .. image:: https://i.imgur.com/k9S5wQF.png
     :width: 300px
     :align: center
+
+La sessione di WalletConnect viene avviata mediante la scansione di un codice QR (desktop) o facendo clic su un deep link dell'applicazione (dispositivo mobile). Una volta collegati sulla dApp scelta potrete continuare ad operare dal PC. Ogni volta sarà necessaria la firma di una transazione dovrete utilizzare invece il wallet mobile di Eidoo.
 
 .. note::
     Nel caso vogliate sperimentare una Dapp verificate che sia supportata da WalletConnect, a questo indirizzo la lista completa:
@@ -83,8 +88,7 @@ Confermate la vostra scelta cliccando su “DISCONNECT”.
     :width: 300px
     :align: center
  
-
-Nella schermata precedente potete anche aggiungere altri servizi cliccando su “Scan QR code”.
+ 
 
 
 
