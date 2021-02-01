@@ -11,7 +11,7 @@ La sessione di WalletConnect viene avviata mediante la scansione di un codice QR
 
 .. note::
     Nel caso vogliate sperimentare una Dapp verificate che sia supportata da WalletConnect, a questo indirizzo la lista completa:
-    https://walletconnect.org/apps/ 
+    `walletconnect.org/apps https://walletconnect.org/apps/`_.
  
 Andate quindi in alto a destra nella schermata principale e cliccate sul simbolo di WalletConnect.
 
