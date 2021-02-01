@@ -11,6 +11,7 @@ Quali documenti preparare
 -------------------------
 
 Per fare la verifica KYC / AML occorrono:
+
 - un documento di identità (carta di identità elettronica o passaporto) con validità residua superiore ad un anno con il codice MRZ visibile. Per essere chiari, la carta di identitá italiana classica a libretto non va bene.
 - una utenza domestica intestata
 - un conto corrente intestati
@@ -108,9 +109,10 @@ Una volta verificato il numero di cellulare dovrete verificare la vostra identit
  
 
 Procedete con l’acquisizione delle immagini che vengono richieste:
-•	la pagina principale del documento di identità;
-•	un selfie;
-•	una registrazione video.
+
+- la pagina principale del documento di identità;
+- un selfie;
+-	una registrazione video.
 
 Alla fine sarà attivata la procedura di verifica, e una volta terminata riceverete una email di conferma. Sarete quindi verificati “**Tier 1**” che vi permette di investire fino a 5000 CHF e a seconda di quanto volete investire potrete decidere di procedere alla verifica Tier 2 (limite di 500'000 CHF) e Tier 3 (più di 500'000 CHF).
 
