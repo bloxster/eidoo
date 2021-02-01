@@ -9,7 +9,7 @@ Per andare sull’exchange cliccate sul simbolo di exchange in basso a sinistra 
     :width: 600px
     :align: center
  
-Il funzionamento è molto simile allo swap descritto nel capitolo `dedicato <https://eidoo.readthedocs.io/it/latest/swap.html#swap-di-ether-e-token-erc20>`_.
+Il funzionamento è molto simile allo swap descritto nel `capitolo dedicato <https://eidoo.readthedocs.io/it/latest/swap.html#swap-di-ether-e-token-erc20>`_.
 
 Eidoo Defi Exchange mostra già al momento della scelta del token l’interesse annuale.
 
