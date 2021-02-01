@@ -3,7 +3,7 @@ DeFi Exchange
 
 Il DeFi Exchange di Eidoo permette di utilizzare alcuni protocolli della DeFi molto popolari come Aave, Compound e CHAI direttamente dal wallet e con pochi click. 
 
-Per andare sull’exchange cliccate sul simbolo di exchange in basso a sinistra della schermata principale “I miei asset” e cliccate su “DeFi exchange”. Si aprirà una schermata con la lista dei token disponibili. Sceglietene uno e finalizzate la transazione.
+Per andare sull’exchange cliccate sul simbolo di exchange in basso a sinistra della schermata principale “**I miei asset**” e cliccate su “**DeFi exchange**”. Si aprirà una schermata con la lista dei token disponibili. Sceglietene uno e finalizzate la transazione.
 
 .. image:: https://i.imgur.com/J50Fa46.gif
     :width: 300px
