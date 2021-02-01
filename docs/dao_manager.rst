@@ -39,7 +39,7 @@ Votare nella DAO è altrettanto semplice, scegliete “**VOTING & REWARDS**” d
     :width: 300px
     :align: center 
  
-Cliccando sul menu in alto potete vedere le **RICOMPENSE** già ottenute con le votazioni scorse, in pratica basta votare per ricevere PNT e il numero di PNT ricevuti dipende dal vostro potere di voto (e non da quello che votate).
+Cliccando sul menu in alto potete vedere le "**RICOMPENSE**" già ottenute con le votazioni scorse, in pratica basta votare per ricevere PNT e il numero di PNT ricevuti dipende dal vostro potere di voto (e non da quello che votate).
 
 .. image:: https://i.imgur.com/T7rrge9.jpg
     :width: 300px
@@ -51,5 +51,4 @@ Su "**PREFERENZE**" potete decidere se ricevere le notifiche di una nuova notazi
     :width: 300px
     :align: center  
 
-Per ricevere questo ultimo tipo di notifica dovete avere un account Eidoo registrato (fate riferimento alla sezione `KYC e verifica dell’identità con Eidoo ID
- <https://eidoo.readthedocs.io/it/latest/kyc.html#kyc-e-verifica-dellidentita-con-eidoo-id>`_
+Per ricevere questo ultimo tipo di notifica dovete avere un account Eidoo registrato. Fate riferimento alla sezione `KYC e verifica dell’identità con Eidoo ID <https://eidoo.readthedocs.io/it/latest/kyc.html#kyc-e-verifica-dellidentita-con-eidoo-id>`_.
