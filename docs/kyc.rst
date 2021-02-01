@@ -7,22 +7,30 @@ Eidoo è un portafoglio che offre tutti gli strumenti per poter gestire le propr
 
 Per poter accedere a questi servizi è necessario registrarsi e passare una procedura di KYC e AML, le normative atte a evitare il riciclaggio del denaro e il suo uso per fini terroristici.
 
-Servono un documento di identità (carta di identità elettronica o passaporto) con validità residua superiore ad un anno e/o codice MRZ visibile, se presente, una utenza domestica intestata e un conto corrente intestati.
+Quali documenti preparare
+-------------------------
 
+Per fare la verifica KYC / AML occorrono:
+- un documento di identità (carta di identità elettronica o passaporto) con validità residua superiore ad un anno con il codice MRZ visibile. Per essere chiari, la carta di identitá italiana classica a libretto non va bene.
+- una utenza domestica intestata
+- un conto corrente intestati
+- il vostro numero di cellulare
 
+Procedura di KYC / AML
+----------------------
  
-Dalla schermata principale andate al menu Altro, potrete notare che la vostra identità non è verificata. 
+Dalla schermata principale andate al menu "**Altro**", potrete notare che la vostra identità non è verificata. 
 
  
 
  
-Cliccate quindi su Non verificato.
+Cliccate quindi su "**Non verificato**".
 
  
 
 Verrete reindirizzati sulla pagina web di Eidoo ID dove dovrete creare un nuovo account e inserire i vostri dati con i relativi documenti richiesti per la verifica. 
  
-Cliccate su “CREA ACCOUNT EIDOO”.
+Cliccate su “**CREA ACCOUNT EIDOO**”.
 
  
 
@@ -32,28 +40,28 @@ Scegliete Privato o Business a seconda se siete registrati come individuo o soci
  
 
  
-Inserite quindi i vostri dati seguendo le istruzioni sulle schermate, fino a quando dovrete registrare anche login e password. Riempite i campi inserendo il vostro indirizzo e- mail e scegliendo una password robusta. Spuntate le varie caselle, sono tutte obbligatorie, e cliccate su “CONTINUA”.
+Inserite quindi i vostri dati seguendo le istruzioni sulle schermate, fino a quando dovrete registrare anche login e password. Riempite i campi inserendo il vostro indirizzo e- mail e scegliendo una password robusta. Spuntate le varie caselle, sono tutte obbligatorie, e cliccate su “**CONTINUA**”.
 
  
 
-Riceverete una e-mail di verifica con un link da cliccare. Una volta aperto il link, sul vostro wallet comparirà il livello “Tier 1. Verifica dell’indirizzo richiesta” nel menu “altro”. Cliccateci sopra per collegare il vostro indirizzo Ethereum di Eidoo ai vostri dati.
+Riceverete una e-mail di verifica con un link da cliccare. Una volta aperto il link, sul vostro wallet comparirà il livello “**Tier 1. Verifica dell’indirizzo richiesta” nel menu “altro”**". Cliccateci sopra per collegare il vostro indirizzo Ethereum di Eidoo ai vostri dati.
 
 
  
 
 
  
-Cliccate ora su “VERIFICA L’INDIRIZZO ETH”.
+Cliccate ora su “**VERIFICA L’INDIRIZZO ETH**”.
 
  
 
  
-Inserite la password di spesa (1) e cliccate su “CONFERMA VERIFICA” (2). 
+Inserite la password di spesa (1) e cliccate su “**CONFERMA VERIFICA**” (2). 
 
  
 
  
-Apparirà una schermata di conferma dell’avvenuto collegamento tra indirizzo ETH e Eidoo ID, cliccate su “PROCEDI” per terminare.
+Apparirà una schermata di conferma dell’avvenuto collegamento tra indirizzo ETH e Eidoo ID, cliccate su “**PROCEDI**” per terminare.
 
  
 
@@ -63,34 +71,34 @@ Terminata la verifica dell’address una schermata vi avviserà che è meglio te
  
 
  
-Aprite quindi la pagina al computer e cliccate su “Start Verification”.
+Aprite quindi la pagina al computer e cliccate su “**Start Verification**”.
 
  
 
  
-Inserite e-mail e password con il quale vi siete registrati e cliccate su “LOGIN”.
+Inserite e-mail e password con il quale vi siete registrati e cliccate su “**LOGIN**”.
 
  
 
  
-Inserite il paese di residenza e cliccate su “CONTINUE”.
+Inserite il paese di residenza e cliccate su “**CONTINUE**”.
 
  
 
  
-Compilate il vostro indirizzo di residenza e cliccate nuovamente su “CONTINUE”.
-
-
- 
-
- 
-Inserite il vostro numero di cellulare e cliccate su “CONTINUE”.
+Compilate il vostro indirizzo di residenza e cliccate nuovamente su “**CONTINUE**”.
 
 
  
 
  
-Immettete il codice ricevuto via SMS o cliccate su “I DIDN’T RECEIVE THE SMS” per riceverlo nuovamente. 
+Inserite il vostro numero di cellulare e cliccate su “**CONTINUE**”.
+
+
+ 
+
+ 
+Immettete il codice ricevuto via SMS o cliccate su “**I DIDN’T RECEIVE THE SMS**” per riceverlo nuovamente. 
 
  
 
@@ -104,7 +112,7 @@ Procedete con l’acquisizione delle immagini che vengono richieste:
 •	un selfie;
 •	una registrazione video.
 
-Alla fine sarà attivata la procedura di verifica, e una volta terminata riceverete una email di conferma. Sarete quindi verificati “Tier 1” che vi permette di investire fino a 5000 CHF e a seconda di quanto volete investire potrete decidere di procedere alla verifica Tier 2 (limite di 500'000 CHF) e Tier 3 (più di 500'000 CHF).
+Alla fine sarà attivata la procedura di verifica, e una volta terminata riceverete una email di conferma. Sarete quindi verificati “**Tier 1**” che vi permette di investire fino a 5000 CHF e a seconda di quanto volete investire potrete decidere di procedere alla verifica Tier 2 (limite di 500'000 CHF) e Tier 3 (più di 500'000 CHF).
 
  
 
@@ -127,7 +135,7 @@ Una volta confermati tutti i dati tramite codice SMS, la tua richiesta verrà pr
  
 
 
-Se volete proseguire con la verifica Tier 3 seguite le istruzioni cliccando su “INCREMENTA VERIFICA A TIER 3”.
+Se volete proseguire con la verifica Tier 3 seguite le istruzioni cliccando su “**INCREMENTA VERIFICA A TIER 3**”.
 
  
 
