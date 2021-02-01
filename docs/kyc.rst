@@ -22,50 +22,59 @@ Procedura di KYC / AML
  
 Dalla schermata principale andate al menu "**Altro**", potrete notare che la vostra identità non è verificata. 
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Cliccate quindi su "**Non verificato**".
 
- 
+.. image:: 
+    :width: 600px
+    :align: center
 
 Verrete reindirizzati sulla pagina web di Eidoo ID dove dovrete creare un nuovo account e inserire i vostri dati con i relativi documenti richiesti per la verifica. 
  
 Cliccate su “**CREA ACCOUNT EIDOO**”.
 
- 
+.. image:: 
+    :width: 600px
+    :align: center
 
- 
 Scegliete Privato o Business a seconda se siete registrati come individuo o società. 
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Inserite quindi i vostri dati seguendo le istruzioni sulle schermate, fino a quando dovrete registrare anche login e password. Riempite i campi inserendo il vostro indirizzo e- mail e scegliendo una password robusta. Spuntate le varie caselle, sono tutte obbligatorie, e cliccate su “**CONTINUA**”.
 
- 
+.. image:: 
+    :width: 600px
+    :align: center 
 
 Riceverete una e-mail di verifica con un link da cliccare. Una volta aperto il link, sul vostro wallet comparirà il livello “**Tier 1. Verifica dell’indirizzo richiesta” nel menu “altro”**". Cliccateci sopra per collegare il vostro indirizzo Ethereum di Eidoo ai vostri dati.
 
-
- 
-
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Cliccate ora su “**VERIFICA L’INDIRIZZO ETH**”.
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center 
  
 Inserite la password di spesa (1) e cliccate su “**CONFERMA VERIFICA**” (2). 
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center 
  
 Apparirà una schermata di conferma dell’avvenuto collegamento tra indirizzo ETH e Eidoo ID, cliccate su “**PROCEDI**” per terminare.
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Terminata la verifica dell’address una schermata vi avviserà che è meglio terminare la procedura sul PC all’indirizzo https://eidoo.id/. In realtà vi serve un dispositivo con la fotocamera e microfono, e con la possibilità di caricare dei file, quindi va bene anche il vostro smartphone. 
 
@@ -74,35 +83,39 @@ Terminata la verifica dell’address una schermata vi avviserà che è meglio te
  
 Aprite quindi la pagina al computer e cliccate su “**Start Verification**”.
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Inserite e-mail e password con il quale vi siete registrati e cliccate su “**LOGIN**”.
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center 
  
 Inserite il paese di residenza e cliccate su “**CONTINUE**”.
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center 
  
 Compilate il vostro indirizzo di residenza e cliccate nuovamente su “**CONTINUE**”.
 
-
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Inserite il vostro numero di cellulare e cliccate su “**CONTINUE**”.
 
-
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Immettete il codice ricevuto via SMS o cliccate su “**I DIDN’T RECEIVE THE SMS**” per riceverlo nuovamente. 
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Una volta verificato il numero di cellulare dovrete verificare la vostra identità. Procedete scegliendo il tipo di documento che volete utilizzare: passaporto o carta di identità elettronica.
 
