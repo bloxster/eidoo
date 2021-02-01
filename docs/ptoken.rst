@@ -4,7 +4,7 @@ Asset tokenizzati di pToken (pBTC, pLTC, etc.)
 I pTokens sono rappresentazioni di una criptovaluta su Ethereum, una “tokenizzazione” garantita da dispositivi hardware di massima sicurezza denominati *Trusted Execution Environment*. I pTokens rendono interoperabili le varie blockchain, ad esempio pBTC è disponibile sia come token di Ethereum che come token di EOS.
 
 
-.. hint::
+.. note::
     Per informazioni più approfondite sul funzionamento dei pTokens visitate il sito ufficiale `pTokens.io <https://ptokens.io/>`_ 
 
 Sul Eidoo wallet Sono al momento disponibili pBTC e pLTC, ma potete connettervi alla DAPP di pTokens tramite `WalletConnect <https://eidoo.readthedocs.io/it/latest/walletconnect.html#walletconnect-tutti-i-protocolli-a-portata-di-qr-code>`_ e utilizzare tutti gli altri pTokens.
