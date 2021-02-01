@@ -12,10 +12,10 @@ Quali documenti preparare
 
 Per fare la verifica KYC / AML occorrono:
 
-- un documento di identità (carta di identità elettronica o passaporto) con validità residua superiore ad un anno con il codice MRZ visibile. Per essere chiari, la carta di identitá italiana classica a libretto non va bene.
-- una utenza domestica intestata
-- un conto corrente intestati
-- il vostro numero di cellulare
+- un documento di identità (carta di identità elettronica o passaporto) con validità residua superiore ad un anno con il codice MRZ visibile (la carta di identitá italiana classica a libretto non va bene poichè provvista di questo codice);
+- una utenza domestica intestata;
+- un conto corrente intestati;
+- il vostro numero di cellulare.
 
 Procedura di KYC / AML
 ----------------------
