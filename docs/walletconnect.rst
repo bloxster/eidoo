@@ -65,7 +65,7 @@ Cliccate su “**APPROVE TRANSACTION**”.
 
 Firmate la transazione con la vostra password di spesa.
  
-Terminato l’utilizzo della dApp vi consigliamo di scollegare il vostro wallet. Cliccando di nuoco sull’icona di WalletConnect in alto a destra nella schermata principale, potrete vedere a quali DAPP siete connessi.
+Terminato l’utilizzo della dApp vi consigliamo di scollegare il vostro wallet. Cliccando di nuovo sull’icona di WalletConnect in alto a destra nella schermata principale, potrete vedere a quali DAPP siete connessi.
 
 .. image:: https://i.imgur.com/keTRlDS.jpg
     :width: 300px
