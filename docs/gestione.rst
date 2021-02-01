@@ -1,4 +1,4 @@
-Gestione delle criptovalute con eidoo
+Gestione delle criptovalute con Eidoo
 =====================================
 
 Eidoo è un wallet di criptovalute `HD <https://www.cryptohelper.it/glossario/hd-wallet-hierarchical-deterministic-wallet/>`_ sicuro e “non custodial”, in cui i fondi rimangono sempre nelle mani dell’utente.
