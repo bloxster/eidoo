@@ -6,7 +6,7 @@ Il DeFi Exchange di Eidoo permette di utilizzare alcuni protocolli della DeFi mo
 Per andare sull’exchange cliccate sul simbolo di exchange in basso a sinistra della schermata principale “I miei asset” e cliccate su “DeFi exchange”. Si aprirà una schermata con la lista dei token disponibili. Sceglietene uno e finalizzate la transazione.
 
 .. image:: https://i.imgur.com/J50Fa46.gif
-    :width: 300px
+    :width: 600px
     :align: center
  
 Il funzionamento è molto simile allo swap descritto nel capitolo `dedicato <https://eidoo.readthedocs.io/it/latest/swap.html#swap-di-ether-e-token-erc20>`_.
