@@ -82,7 +82,7 @@ Cliccate sulla crocetta rossa del servizio che volete disconnettere.
     :width: 300px
     :align: center
 
-Confermate la vostra scelta cliccando su “DISCONNECT”.
+Confermate la vostra scelta cliccando su “**DISCONNECT**”.
 
 .. image:: https://i.imgur.com/dILfXvh.jpg
     :width: 300px
