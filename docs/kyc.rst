@@ -1,11 +1,15 @@
 KYC e verifica dell’identità con Eidoo ID
 ==========================================
 
-Eidoo è un portafoglio che offre tutti gli strumenti per poter gestire le proprie criptovalute in maniera assolutamente decentralizzata e sicura. Tuttavia, offre più funzionalità di questo. Con Eidoo è anche possibile ritirare denaro sul proprio conto corrente, comprare criptovalute con la propria carta di credito o con un bonifico SEPA, partecipare con Eido Crowd a vendite pubbliche di token (ICO e STO) selezionate dal team. La verifica dell’identità di Eidoo ID è inoltre riconosciuta anche per altri servizi quali Bitmax, ICO engine, Ekon, Outbit.
-
- 
+Eidoo è un portafoglio che offre tutti gli strumenti per poter gestire le proprie criptovalute in maniera assolutamente decentralizzata e sicura. Con Eidoo è possibile inoltre ritirare denaro sul proprio conto corrente (*fiat on-off ramp*), comprare criptovalute con la propria carta di credito o con un bonifico SEPA, partecipare con Eido Crowd a vendite pubbliche di token (ICO, IEO e STO) selezionate dal team.
 
 Per poter accedere a questi servizi è necessario registrarsi e passare una procedura di KYC e AML, le normative atte a evitare il riciclaggio del denaro e il suo uso per fini terroristici.
+
+.. image:: https://i.imgur.com/oPi8Qk6.png
+    :width: 600px
+    :align: center
+
+La verifica dell’identità di Eidoo ID è inoltre valida anche per altri servizi quali Bitmax, ICO engine, Ekon, Outbit.
 
 Quali documenti preparare
 -------------------------
@@ -22,13 +26,13 @@ Procedura di KYC / AML
  
 Dalla schermata principale andate al menu "**Altro**", potrete notare che la vostra identità non è verificata. 
 
-.. image:: 
+.. image:: https://i.imgur.com/waesjVa.jpg
     :width: 600px
     :align: center
  
 Cliccate quindi su "**Non verificato**".
 
-.. image:: 
+.. image:: https://i.imgur.com/OFoTfXN.jpg
     :width: 600px
     :align: center
 
@@ -36,13 +40,13 @@ Verrete reindirizzati sulla pagina web di Eidoo ID dove dovrete creare un nuovo 
  
 Cliccate su “**CREA ACCOUNT EIDOO**”.
 
-.. image:: 
+.. image:: https://i.imgur.com/oiQ2tpY.jpg
     :width: 600px
     :align: center
 
 Scegliete Privato o Business a seconda se siete registrati come individuo o società. 
 
-.. image:: 
+.. image:: https://i.imgur.com/VXCdwIj.jpg
     :width: 600px
     :align: center
  
@@ -54,13 +58,13 @@ Inserite quindi i vostri dati seguendo le istruzioni sulle schermate, fino a qua
 
 Riceverete una e-mail di verifica con un link da cliccare. Una volta aperto il link, sul vostro wallet comparirà il livello “**Tier 1. Verifica dell’indirizzo richiesta” nel menu “altro”**". Cliccateci sopra per collegare il vostro indirizzo Ethereum di Eidoo ai vostri dati.
 
-.. image:: 
+.. image:: https://i.imgur.com/w3L7c0y.jpg
     :width: 600px
     :align: center
  
 Cliccate ora su “**VERIFICA L’INDIRIZZO ETH**”.
 
-.. image:: 
+.. image:: https://i.imgur.com/nFgyemI.jpg
     :width: 600px
     :align: center 
  
@@ -78,24 +82,25 @@ Apparirà una schermata di conferma dell’avvenuto collegamento tra indirizzo E
  
 Terminata la verifica dell’address una schermata vi avviserà che è meglio terminare la procedura sul PC all’indirizzo https://eidoo.id/. In realtà vi serve un dispositivo con la fotocamera e microfono, e con la possibilità di caricare dei file, quindi va bene anche il vostro smartphone. 
 
- 
-
+.. image:: 
+    :width: 600px
+    :align: center
  
 Aprite quindi la pagina al computer e cliccate su “**Start Verification**”.
 
-.. image:: 
+.. image:: https://i.imgur.com/nKOKFTw.jpg
     :width: 600px
     :align: center
  
 Inserite e-mail e password con il quale vi siete registrati e cliccate su “**LOGIN**”.
 
-.. image:: 
+.. image:: https://i.imgur.com/0eXhKOE.jpg
     :width: 600px
     :align: center 
  
 Inserite il paese di residenza e cliccate su “**CONTINUE**”.
 
-.. image:: 
+.. image:: https://i.imgur.com/U7IkbaR.jpg
     :width: 600px
     :align: center 
  
@@ -107,19 +112,21 @@ Compilate il vostro indirizzo di residenza e cliccate nuovamente su “**CONTINU
  
 Inserite il vostro numero di cellulare e cliccate su “**CONTINUE**”.
 
-.. image:: 
+.. image:: https://i.imgur.com/Mu6hNLU.jpg
     :width: 600px
     :align: center
  
 Immettete il codice ricevuto via SMS o cliccate su “**I DIDN’T RECEIVE THE SMS**” per riceverlo nuovamente. 
 
-.. image:: 
+.. image:: https://i.imgur.com/uyD3N3p.jpg
     :width: 600px
     :align: center
  
-Una volta verificato il numero di cellulare dovrete verificare la vostra identità. Procedete scegliendo il tipo di documento che volete utilizzare: passaporto o carta di identità elettronica.
+Una volta verificato il numero di cellulare dovrete verificare la vostra identità. Procedete scegliendo il tipo di documento che volete utilizzare: **passaporto** o **carta di identità elettronica**.
 
- 
+.. image:: https://i.imgur.com/Snl4tAZ.jpg
+    :width: 600px
+    :align: center
 
 Procedete con l’acquisizione delle immagini che vengono richieste:
 
