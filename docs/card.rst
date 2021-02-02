@@ -14,8 +14,7 @@ Eidoo Card consente di convertire facilmente Bitcoin (tramite conversione in pBT
 Eidoo Card offre tre tipologie di piani, con possibilità di upgrade: **Basic**, **VIP** e **Black** (metal). A seconda della carta viene richiesto di bruciare una certa quantità di PNT e viene offerto un livello diverso di **cashback**.
 
 .. note::
-   Per saperne di più su Eidoo Card seguite questo link.
-   https://moneyfold.co.uk/eidoo-card/
+   Per saperne di più su Eidoo Card andate nalla pagina https://moneyfold.co.uk/eidoo-card/
    
 Per richiedere la vostra carta Eidoo munitevi quindi di un quantitativo adeguato di PNT e scorrete il banner centrale fino a trovare “**Eidoo cards are here! Order yours**”
 
