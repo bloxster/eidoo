@@ -6,10 +6,11 @@ Questa procedura, oltre a **semplificare il processo** di invio degli Ether all�
 
 .. note:: 
     Più informazioni a questo link:
+    
     https://eidoohelp.zendesk.com/hc/it/articles/360028649032-Cos-%C3%A8-Eidoo-Crowd-
 
 .. warning::
-    IMPORTANTE: Per poter partecipare a una vendita pubblica supportata da Eidoo dovete avere il KYC tier 2 abilitato.
+    Per poter partecipare a una vendita pubblica supportata da Eidoo dovete avere il `KYC <https://eidoo.readthedocs.io/it/latest/kyc.html#kyc-e-verifica-dellidentita-con-eidoo-id>`_ tier 2 abilitato.
  
 Cliccate sul tasto di Eidoo Crowd in basso a destra sulla schermata iniziale.
 
