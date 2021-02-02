@@ -100,7 +100,7 @@ Inserite e-mail e password con il quale vi siete registrati e cliccate su “**L
  
 Inserite il paese di residenza e cliccate su “**CONTINUE**”.
 
-.. image:: https://i.imgur.com/U7IkbaR.jpg
+.. image:: https://i.imgur.com/jwM89il.jpg
     :width: 300px
     :align: center 
  
