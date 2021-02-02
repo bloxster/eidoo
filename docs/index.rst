@@ -48,7 +48,6 @@ Indice dei contenuti
    disclaimer
 
 
-
 .. meta::
    :description: Guida Completa all'Utilizzo di Eidoo Wallet
-   :keywords: Guida, Manuale, Eidoo, Wallet, DeFi, Ethereum, Bitcoin, blockchain
+   :keywords: Guida, Manuale, Eidoo, Wallet, DeFi, Ethereum, Bitcoin, blockchain, DeFi
