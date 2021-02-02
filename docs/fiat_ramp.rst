@@ -65,7 +65,7 @@ Acquistare con carta di credito è quasi istantaneo ma il rovescio della medagli
 
 Nel caso decidiate di procedere la schermata che vi apparirà sarà quella dell’importo che volete acquistare, e man mano che inserirete l’importo desiderato apparirà anche il cambio. 
 
-.. image:: https://i.imgur.com/3yh5vs5.gifv
+.. image:: https://i.imgur.com/3yh5vs5.gif
     :width: 300px
     :align: center       
 
