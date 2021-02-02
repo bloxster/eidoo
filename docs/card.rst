@@ -11,24 +11,9 @@ Grazie alla recente integrazione con ZK Rollup di **Loopring** le commissioni so
 
 Eidoo Card consente di convertire facilmente Bitcoin (tramite conversione in pBTC) ed Ether in euro e caricarli sulla carta direttamente in-app per iniziare a spendere subito. In futuro saranno supportate anche le stablecoin come USDT, DAI, GBPM, EURM.
 
-Eidoo Card offre tre tipologie di piani, con possibilità di upgrade: Basic, VIP e Black (metal). Le differenze tra i tre piani sono:
+Eidoo Card offre tre tipologie di piani, con possibilità di upgrade: **Basic**, **VIP** e **Black** (metal). A seconda della carta viene richiesto di bruciare una certa quantità di PNT e viene offerto un livello diverso di **cashback**.
 
--	**Piano BASIC**
-  -	Per ordinare la carta BASIC è necessario bruciare 20 PNT
-  -	Nessuna commissione annuale, bancomat o di acquisto
-  -	Stake di PNT per aumentare la propria percentuale di cashback e sbloccare gli aggiornamenti dell'account
--	**Piano VIP**
-  -	Per ordinare la carta VIP bisogna mettere in staking 25’000 PNT, che si sblocceranno dopo un anno
-  -	Nessuna commissione annuale, bancomat o di acquisto
-  -	Aumento dello staking di PNT per aumentare la propria percentuale di cashback e sbloccare gli aggiornamenti dell'account
--	**Piano BLACK**
-  -	Per ordinare la carta VIP bisogna mettere in staking 200’000 PNT, che si sblocceranno dopo un anno
-  -	Nessuna commissione annuale, bancomat o di acquisto
-  -	Si puà aumentare la percentuale di cashback aumentando lo staking di PNT
-
-Con il **Cashback** i titolari della carta Eidoo possono guadagnare fino al 10% dell'importo totale dell'acquisto per transazione.
-
-.. note:
+.. note::
    Per saperne di più su Eidoo Card seguite questo link.
    https://moneyfold.co.uk/eidoo-card/
    
