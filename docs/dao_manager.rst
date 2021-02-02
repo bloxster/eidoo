@@ -9,6 +9,9 @@ Dallo scorso Giugno 2020 il token di Eidoo EDO è stato trasformato e rinominato
 
 Per fare ciò l’utente che possiede PNT deve metterli in staking nella DAO. Con Eidoo Wallet questa operazione è molto pratica e veloce, oltre a non avere nessun costo di GAS.
 
+Staking
+-------
+
 Dalla schermata principale “**I tuoi asset**” scorrete il banner centrale fino a visualizzare “**DAO Manager**”.
 
 .. image:: https://i.imgur.com/BDn2hJs.jpg
@@ -32,14 +35,19 @@ Ricordate che per qualsiasi operazione che farete verranno bloccati i token per 
 .. image:: https://i.imgur.com/tZL5VL9.png
     :width: 600px
     :align: center 
-   
-Votare nella DAO è altrettanto semplice, scegliete “**VOTING & REWARDS**” dal menu principale di DAO Manager. Si aprirà una schermata dove appaiono i voti già espressi dalla comunità di pNetwork DAO.
+
+Votare le proposte della pNetwork DAO
+-------------------------------------
+
+Votare nella DAO è altrettanto semplice, scegliete “**VOTING & REWARDS**” dal menu principale di **DAO Manager**. Si aprirà una schermata dove appaiono le eventuali votazioni in corso e i voti già espressi dalla comunità di pNetwork DAO.
 
 .. image:: https://i.imgur.com/d4jO128.jpg
     :width: 300px
     :align: center 
  
-Cliccando sul menu in alto potete vedere le "**RICOMPENSE**" già ottenute con le votazioni scorse, in pratica basta votare per ricevere PNT e il numero di PNT ricevuti dipende dal vostro potere di voto (e non da quello che votate).
+Nel caso in cui sia presente una votazione, votare nella DAO non ha alcun costo per gli utenti in quanto la DAO si accolla i costi di transazione. Ogni volta che si partecipa ad una votazione si ottengono dei PNT, il cui numero dipende dal vostro potere di voto (e non da quello che votate).
+
+Cliccando sul menu in alto potete vedere le "**RICOMPENSE**" già ottenute con le votazioni scorse. 
 
 .. image:: https://i.imgur.com/T7rrge9.jpg
     :width: 300px
