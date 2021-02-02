@@ -80,13 +80,13 @@ Apparirà una schermata di conferma dell’avvenuto collegamento tra indirizzo E
     :width: 300px
     :align: center
  
-Terminata la verifica dell’address una schermata vi avviserà che è meglio terminare la procedura sul PC all’indirizzo https://eidoo.id/.
+Terminata la verifica dell’address una schermata vi avviserà che è meglio terminare la procedura sul PC all’indirizzo https://eidoo.id/, ma potete continuare anche nello smartphone come da esempio di seguito.
 
 .. image:: https://i.imgur.com/UbTY6Da.jpg
     :width: 300px
     :align: center
  
-Aprite quindi la pagina al computer e cliccate su “**Start Verification**”.
+Nella pagina https://eidoo.id/ cliccate su “**Start Verification**”.
 
 .. image:: https://i.imgur.com/nKOKFTw.jpg
     :width: 300px
