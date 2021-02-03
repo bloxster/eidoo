@@ -75,20 +75,8 @@ Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui 
 
 Non preoccupatevi quindi se non vedete i vostri asset immediatamente ma abbiate pazienza di aspettare i blocchi necessari. Monitorate la vostra transazione con un block explorer come ad esempio `Etherscan <https://etherscan.io/>`_ per Ethereum o `BlockChair <https://blockchair.com/bitcoin/>`_ per Bitcoin.
 
-Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist <http://cryptonomist.com/>`_.
-
-.. image:: https://i.imgur.com/Ps42tLA.jpg
-    :width: 300px
-    :align: center
-
-Lo `storico delle transazioni <https://eidoo.readthedocs.io/it/latest/gestione.html#storico-delle-proprie-transazioni>`_ di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
-
-.. image:: https://i.imgur.com/7CPVVqG.jpg
-    :width: 300px
-    :align: center
-
 Invio dei token e delle criptovalute supportate
--------------------------------------------------------------------------------
+-----------------------------------------------
 
 Una volta che nel wallet sono presenti dei fondi diventa possibile trasferirli ad altri address.
 Dalla schermata principale “**I tuoi asset**" cliccate sulla criptovaluta che volete trasferire. L’immagine seguente mostra ad il wallet di ETH dopo diverse operazioni (le operazioni a 0 ETH sono operazioni con smart contract come quello dell’exchange di Eidoo).
