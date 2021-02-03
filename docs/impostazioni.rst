@@ -35,7 +35,8 @@ Mostra il livello di `verifica della identità <https://eidoo.readthedocs.io/it/
 -	Transazioni Ethereum in ingresso: permette di ricevere una notifica push quando c’è una transazione in ingresso sul vostro account di Ethereum.
 
 **Social**
-◦	La sezione social permette di visitare i vari canali di comunicazione di Eidoo quali Twitter, Facebook, Reddit, Telegram etc. etc.
+
+-	La sezione social permette di visitare i vari canali di comunicazione di Eidoo quali Twitter, Facebook, Reddit, Telegram etc. etc.
 
 **Manutenzione app**
 
