@@ -1,7 +1,7 @@
 Andamento del portafoglio
 =========================
 
-Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist <http://cryptonomist.com/>`_.
+Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset**” rappresenterà il vostro nuovo saldo. Cliccando sull’icona in alto a sinistra potrete visualizzare l’**andamento del vostro portafoglio di Ethereum** grazie al widget fornito da `Cryptonomist <http://cryptonomist.ch/>`_.
 
 .. image:: https://i.imgur.com/rsk85dw.jpg
     :width: 300px
