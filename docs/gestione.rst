@@ -61,7 +61,7 @@ Per ricevere token **ERC20** e **ERC223** si utilizza lo stesso identico **addre
 
 Eidoo non supporta la generazione di indirizzi con un importo predeterminato (EIP-681).
 
-.. hint::
+.. note::
     Mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. 
     Questa caratteristica è tipica degli *hierarcal deterministic wallet* ed è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi "vecchi" per ricevere bitcoin o litecoin, è sempre meglio utilizzare indirizzi nuovi per lasciare tracce meno evidenti sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
 
