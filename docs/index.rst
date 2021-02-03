@@ -32,6 +32,7 @@ Indice dei contenuti
    download
    i_tuoi_asset
    gestione
+   andamento
    rubrica
    hybrid_exchange
    swap
