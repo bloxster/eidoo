@@ -79,13 +79,13 @@ Dopo aver ricevuto i vostri primi fondi, la schermata iniziale “**I tuoi asset
 
 .. image:: https://i.imgur.com/Ps42tLA.jpg
     :width: 300px
-    :align: cente
+    :align: center
 
 Lo `storico delle transazioni <https://eidoo.readthedocs.io/it/latest/gestione.html#storico-delle-proprie-transazioni>`_ di ogni criptovaluta può essere visualizzato cliccando sulla stessa, in questo esempio **BTC**.
 
 .. image:: https://i.imgur.com/7CPVVqG.jpg
     :width: 300px
-    :align: cente
+    :align: center
 
 Invio dei token e delle criptovalute supportate
 -------------------------------------------------------------------------------
