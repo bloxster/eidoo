@@ -4,8 +4,7 @@ Gestione delle criptovalute con Eidoo
 Eidoo è un wallet di criptovalute HD sicuro e “non custodial”, in cui i fondi rimangono sempre nelle mani dell’utente.
 
 .. hint::
-    Un wallet HD è un portafoglio che genera un indirizzo sempre diverso per ciascuna transazione che viene fatta su di esso, partendo dalla chiave privata o dalla frase di recupero. 
-
+    Un wallet HD è un portafoglio che genera un indirizzo sempre diverso per ciascuna transazione che viene fatta su di esso, partendo dalla chiave privata o dalla frase di recupero. Questo è valido per le criptovalute come Bitcoin e Litecoin, mentre per Ethereum si utilizza sempre lo stesso address.
 
 Criptovalute Supportate
 -----------------------
