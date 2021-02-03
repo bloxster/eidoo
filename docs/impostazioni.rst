@@ -3,7 +3,7 @@ Impostazioni avanzate
 
 Dal menu "**altro**" si accede a una serie di funzionalità che permettono di gestire il proprio Eidoo Wallet in maniera personalizzata.
  
-.. image:: https://i.imgur.com/8xaa66I.gif\
+.. image:: https://i.imgur.com/8xaa66I.gif
     :width: 300px
     :align: center
 
