@@ -3,9 +3,6 @@ Gestione delle criptovalute con Eidoo
 
 Eidoo è un wallet di criptovalute HD sicuro e “non custodial”, in cui i fondi rimangono sempre nelle mani dell’utente.
 
-.. hint::
-    Un wallet HD è un portafoglio che genera un indirizzo sempre diverso per ciascuna transazione che viene fatta su di esso, partendo dalla chiave privata o dalla frase di recupero. Questo è valido per le criptovalute come Bitcoin e Litecoin, mentre per Ethereum si utilizza sempre lo stesso address.
-
 Criptovalute Supportate
 -----------------------
 
@@ -64,21 +61,15 @@ Per ricevere token **ERC20** e **ERC223** si utilizza lo stesso identico **addre
 
 Eidoo non supporta la generazione di indirizzi con un importo predeterminato (EIP-681).
 
-.. note::
-    Mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia.
-    Questa caratteristica è tipica degli *hierarcal deterministic wallet* ed è desiderata per proteggere meglio la vostra privacy, 
-    quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare 
-    a utilizzare gli indirizzi "vecchi" per ricevere bitcoin o litecoin, è sempre meglio utilizzare indirizzi nuovi per lasciare tracce
-    meno evidenti sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
+.. hint::
+    Mentre l’address del wallet di Ethereum non cambia mai, ogni volta che si ricevono bitcoin e litecoin l’indirizzo del wallet cambia. 
+    Questa caratteristica è tipica degli *hierarcal deterministic wallet* ed è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi "vecchi" per ricevere bitcoin o litecoin, è sempre meglio utilizzare indirizzi nuovi per lasciare tracce meno evidenti sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
 
 .. warning::
-    Il vostro indirizzo di Ethereum è la vostra chiave pubblica dalla quale non è mai possibile risalire alla chiave privata, per cui non è
-    pericoloso condividerlo dal punto di vista della sicurezza. Ma data la trasparenza della blockchain, attraverso il vostro indirizzo è possibile
-    risalire a numerose informazioni come saldo, movimenti, operazioni su exchange, etc etc. quindi **condividetelo solo con persone e
-    soggetti di cui vi fidate**.
+    Il vostro indirizzo di Ethereum è la vostra chiave pubblica dalla quale non è mai possibile risalire alla chiave privata, per cui non è pericoloso condividerlo dal punto di vista della sicurezza. Ma data la trasparenza della blockchain, attraverso il vostro indirizzo è possibile risalire a numerose informazioni come saldo, movimenti, operazioni su exchange, etc etc. quindi **condividetelo solo con persone e soggetti di cui vi fidate**.
 
 Tempi di deposito delle criptovalute
--------------------------------------------------------------------------------
+-------------------------------------
 
 Ogni asset richiede un certo numero di conferme (cioè numero di blocchi in cui compare la transazione) prima di essere depositato sul wallet e diventare utilizzabile dall’utente. Mentre Ethereum richiede pochi minuti, Litecoin e Bitcoin richiedono 6 conferme. Per Litecoin mediamente si parla di 15-20 minuti mentre per Bitcoin si può arrivare a più di un ora prima di vedere il proprio deposito nel wallet, in condizioni di blockchain normali (quando è intasata possono passare giorni!).
 
