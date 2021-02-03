@@ -4,11 +4,6 @@ Eidoo Crowd - Partecipazione a ICO e STO
 Una volta verificati *Tier 2* Eidoo Wallet offre la possibilità di partecipare in una modalità automatica, sicura e semplice alle ICO e STO. Le ICO sono operazioni di crowdfunding in cui le aziende emittenti offrono al pubblico l’opportunità di acquistare gli utility token da loro emessi per raccogliere risorse necessarie allo sviluppo del progetto. Una volta che il progetto è attivo, tali token sono utilizzabili al suo interno. Le STO sono operazioni di crowdfunding in cui le aziende emittenti offrono al pubblico dei token con diritti patrimoniali stabiliti (paragonabili ad esempio, a seconda dei casi, ad obbligazioni o azioni).
 Questa procedura, oltre a **semplificare il processo** di invio degli Ether all’indirizzo ICO (non sarà necessario infatti preoccuparsi dei parametri di GAS, per esempio) **elimina il rischio di phishing** e altri pericoli comuni durante le vendite pubbliche su blockchain.
 
-.. note:: 
-    Più informazioni a questo link:
-    
-    https://eidoohelp.zendesk.com/hc/it/articles/360028649032-Cos-%C3%A8-Eidoo-Crowd-
-
 .. warning::
     Per poter partecipare a una vendita pubblica supportata da Eidoo dovete avere il `KYC <https://eidoo.readthedocs.io/it/latest/kyc.html#kyc-e-verifica-dellidentita-con-eidoo-id>`_ tier 2 abilitato.
  
