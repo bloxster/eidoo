@@ -239,3 +239,22 @@ Cliccateci sopra e scegliete "**MANAGE MY NFTS**" per vedere e spedire i vostri 
 
 Cliccando su "**DISCOVER NFTS**" aprirete un `link <https://opensea.io/blog/guides/non-fungible-tokens/?lang=it>`_ in inglese di approfondimento sul sito di OpenSea, uno dei maggiori mercati di NFT.
 
+Nascondere il saldo di un token
+-------------------------------
+
+Il wallet di Eidoo offre la possibilità di nascondere dalla schermata iniziale il saldo dei token o di una criptovaluta che non vi interessano, magari ricevuti in airdrop e che non hanno un valore interessante, o che avete già scambiato e nonostante il saldo sia 0 vengono comunque mostrati.
+
+Dalla schermata “**I tuoi asset**” andate sulla lista dei token scorrendo la pagina in basso.
+
+.. image:: https://i.imgur.com/92f7IsH.jpg
+    :width: 300px
+    :align: center
+ 
+Scorrete verso destra la criptovaluta o il token che non vi interessa e cliccate sul simbolo di Nascondi.
+
+.. image:: https://i.imgur.com/7qYkP9V.jpg
+    :width: 300px
+    :align: center
+ 
+Per ripristinare un token nascosto andate nel menu delle `impostazioni <https://eidoo.readthedocs.io/it/latest/impostazioni.html#impostazioni-avanzate>`_ in basso a destra dalla schermata iniziale e “**asset nascosti**”.
+
