@@ -1,71 +1,12 @@
 Impostazioni avanzate
 =====================
 
-etc etc
-
-Nascondere il saldo di un token
--------------------------------
-
-Il wallet di Eidoo offre la possibilità di nascondere dalla schermata iniziale il saldo dei token o di una criptovaluta che non vi interessano, magari ricevuti in airdrop e che non hanno un valore interessante, o che avete già scambiato e nonostante il saldo sia 0 vengono comunque mostrati.
-
-Dalla schermata “**I tuoi asset**” andate sulla lista dei token scorrendo la pagina in basso.
-
-.. image:: https://i.imgur.com/92f7IsH.jpg
-    :width: 300px
-    :align: center
- 
-Scorrete verso destra la criptovaluta o il token che non vi interessa e cliccate sul simbolo di Nascondi.
-
-.. image:: https://i.imgur.com/7qYkP9V.jpg
-    :width: 300px
-    :align: center
- 
-Per ripristinare un token nascosto andate nel menu “**altro**” e “**asset nascosti**”.
+Dal menu "**altro**" si accede a una serie di funzionalità che permettono di gestire il proprio Eidoo Wallet in maniera personalizzata.
  
-Ripristino del wallet
----------------------
-
-Per recuperare il vostro wallet è assolutamente indispensabile la frase di recupero. Senza di essa non c'è nessuna maniera di poter ripristinare il wallet, nemmeno lo staff di Eidoo potrà aiutarvi in alcun modo.
-
-Nel caso in cui dobbiate ripristinare il vostro wallet su un nuovo smartphone, o a seguito di reinstallazione, o per installare Eidoo su un ulteriore dispositivo (desktop o mobile) potete farlo attraverso la procedura di Ripristino. Una volta scaricato Eidoo, avviatelo e premete su "**RIPRISTINO**", leggete le condizioni e nella schermata successiva premete su “**ACCETTO**”. 
-
-.. image:: https://i.imgur.com/rB7mLHT.png
-    :width: 300px
-    :align: center  
-
-Recuperate il foglio dove avevate scritto le vostre 12 parole e inseritele nel riquadro bianco distanziate da uno spazio e nell’ordine esatto. Potete anche aiutarvi cliccando sulle parole che appaiono mentre digitate.
-
-.. image:: https://i.imgur.com/SG6FzHV.png
+.. image:: https://i.imgur.com/eEfpVdz.gif
     :width: 300px
     :align: center
 
-Una volta scritte le 12 parole cliccate sul simbolo di spunta in alto a destra che dovrebbe essersi attivato.
-
-.. image:: https://i.imgur.com/wuf959b.png
-    :width: 300px
-    :align: center
-
-A questo punto il sistema vi chiederà di impostare la password di protezione dell’account che funziona anche da password di spesa, e una volta inserita una schermata vi confermerà che la procedura di ripristino è avvenuta con successo. 
-
-.. image:: https://i.imgur.com/x1WWchZ.png
-    :width: 300px
-    :align: center
- 
-Cliccando su **VAI AI MIEI ASSETS** vi sarà chiesto se volete condividere i dati anonimi, una volta effettuata la vostra scelta vi ritroverete nella schermata iniziale “**I tuoi asset**” con il vostro saldo e potrete utilizzare il wallet come descritto nei punti precedenti di questo manuale.
- 
-	
-Gestione delle impostazioni utente
-----------------------------------
-
-Nel menu “altro” trovate invece le varie impostazioni del wallet. 
-
-.. image:: https://i.imgur.com/jmbxKUm.jpg
-    :width: 300px
-    :align: center
-
-https://i.imgur.com/Jx93Bo5.jpg
-
- 
 Scorrendo in basso sono disponibili diverse opzioni.
 
 •	La tua identità: mostra il livello di verifica della identità.
