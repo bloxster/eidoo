@@ -7,6 +7,7 @@ Seguite Eidoo sui social per rimanere sempre aggiornati.
 - Facebook https://www.facebook.com/eidoocrypto/
 - Linkedin https://www.linkedin.com/company/11232699/
 - Reddit   https://www.reddit.com/r/eidooapp/
+- YouTube  https://www.youtube.com/channel/UCwc1aGAbsIvgGwOIBjmhSAg
 
 e naturalmente il sito ufficiale:
 
