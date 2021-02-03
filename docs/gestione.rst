@@ -127,10 +127,8 @@ Eidoo ha tolto la modalità di inserimento manuale degli indirizzi in formato es
 
 Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra il quantitativo disponibile, cliccando su di esso invierete l’intero importo del wallet.
 
-.. note::
-    Mantenete sempre un **saldo minimo** di almeno 0,1 ETH nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione,
-    sia essa uno scambio, uno swap o un trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete
-    reintegrarlo con un nuovo acquisto o mandando un importo da un indirizzo esterno.
+.. warning::
+    Mantenete sempre un **saldo minimo** di almeno 0,1 ETH nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione, sia essa uno scambio, uno swap o un trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete reintegrarlo con un nuovo acquisto o mandando un importo da un indirizzo esterno.
 
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
