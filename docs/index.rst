@@ -43,6 +43,7 @@ Indice dei contenuti
    crowd
    fiat_ramp
    card
+   ripristino
    impostazioni
    social
    disclaimer
