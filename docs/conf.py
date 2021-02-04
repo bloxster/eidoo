@@ -107,11 +107,7 @@ html_static_path = ['_static']
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
-html_css_files = [
-    'css/custom.css',
-]
-
-# LE RIGHE SOPRA SONO STATE AGGIUNTE
+# html_css_files = 
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -130,17 +126,18 @@ html_css_files = [
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "images/logo.png"
+html_logo = "https://i.imgur.com/d3ZPEZJ.png"
+
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-#html_favicon = None
+html_favicon = "https://assets-global.website-files.com/5cab6c6cf8e012ffeee8772f/5cb72971a7efd8f4526e30f1_favicon.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+#html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -239,7 +236,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
+    ('index', 'readthedocstemplate', u'Eidoo Wallet',
      [u'Read the Docs'], 1)
 ]
 
@@ -253,7 +250,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsTemplate', u'Read the Docs Template Documentation',
+  ('index', 'ReadtheDocsTemplate', u'Eidoo Wallet',
    u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
    'Miscellaneous'),
 ]
