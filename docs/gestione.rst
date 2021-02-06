@@ -66,7 +66,7 @@ Eidoo non supporta la generazione di indirizzi con un importo predeterminato (EI
     Questa caratteristica è tipica degli *hierarcal deterministic wallet* ed è desiderata per proteggere meglio la vostra privacy, quindi non preoccupatevi se vedete l’indirizzo di Bitcoin cambiare ad ogni transazione. Anche se potete tranquillamente continuare a utilizzare gli indirizzi "vecchi" per ricevere bitcoin o litecoin, è sempre meglio utilizzare indirizzi nuovi per lasciare tracce meno evidenti sulla blockchain. Noterete che anche se gli address cambiano il saldo del vostro wallet viene aggiornato correttamente.
 
 .. warning::
-    Il vostro indirizzo di Ethereum è la vostra chiave pubblica dalla quale non è mai possibile risalire alla chiave privata, per cui non è pericoloso condividerlo dal punto di vista della sicurezza. Ma data la trasparenza della blockchain, attraverso il vostro indirizzo è possibile risalire a numerose informazioni come saldo, movimenti, operazioni su exchange, etc etc. quindi **condividetelo solo con persone e soggetti di cui vi fidate**.
+    Il vostro **indirizzo di Ethereum** è la vostra chiave pubblica dalla quale non è mai possibile risalire alla chiave privata, per cui non è pericoloso condividerlo dal punto di vista della sicurezza. Ma data la trasparenza della blockchain, attraverso il vostro indirizzo è possibile risalire a numerose informazioni come saldo, movimenti, operazioni su exchange, etc etc. quindi **condividetelo solo con persone e soggetti di cui vi fidate**.
 
 Tempi di deposito delle criptovalute
 -------------------------------------
