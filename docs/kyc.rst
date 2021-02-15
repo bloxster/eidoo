@@ -6,7 +6,7 @@ Eidoo è un portafoglio che offre tutti gli strumenti per poter gestire le propr
 Per poter accedere a questi servizi è necessario registrarsi e passare una procedura di KYC e AML, le normative atte a evitare il riciclaggio del denaro e il suo uso per fini terroristici.
 
 .. image:: https://i.imgur.com/oPi8Qk6.png
-    :width: 300px
+    :width: 600px
     :align: center
 
 La verifica dell’identità di Eidoo ID è inoltre valida anche per altri servizi quali Bitmax, ICO engine, Ekon, Outbit.
