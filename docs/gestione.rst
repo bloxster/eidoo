@@ -117,6 +117,7 @@ Immettete poi la quantità di ETH che volete inviare nel campo Eidoo vi mostra i
 
 .. warning::
     Mantenete sempre un **saldo minimo** di almeno 0,1 ETH nel vostro wallet di Eidoo in quanto è necessario pagare il GAS per ogni transazione, sia essa uno scambio, uno swap o un trasferimento. Nel caso il vostro saldo per poter continuare a utilizzare le funzionalità di Eidoo dovrete reintegrarlo con un nuovo acquisto o mandando un importo da un indirizzo esterno.
+    Per verificare il costo della rete di Ethereum fate riferimento a https://www.ethgasstation.info/ , per monitorare gli orari migliori in cui fare transazioni andate su https://ethereumprice.org/gas/. 
 
 Una volta scelto l’indirizzo del destinatario della transazione inserite l’importo che volete spedire e cliccate su “**PROCEDI**”.
 
