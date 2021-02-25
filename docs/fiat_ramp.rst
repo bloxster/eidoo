@@ -1,7 +1,7 @@
 Acquisto di criptovalute e "cash out"
 =====================================
 
-Con Eidoo è possibile acquistare direttamente criptovalute con un bonifico bancario o utilizzando una carta di credito, funzione molto utile per chi parte da zero nel mondo degli asset digitali crittografati. Bitmax, facente parte del gruppo Poseidon, si occupa del servizio di conversione *fiat on/off ramp*. È importante sottolineare che **non ci sono limiti di acquisto**: comprando 100 euro come 50000 euro in criptovalute, grazie al sistema messo in pratica da Eidoo, non si incontrano problemi (slippage dei prezzi, ecc.).
+Con Eidoo è possibile acquistare direttamente criptovalute con un bonifico bancario o utilizzando una carta di credito, funzione molto utile per chi parte da zero nel mondo degli asset digitali crittografati. `Bitmax <https://coinmarketcap.com/exchanges/bitmax/>`_, facente parte del gruppo Poseidon, si occupa del servizio di conversione *fiat on/off ramp*. È importante sottolineare che **non ci sono limiti di acquisto**: comprando 100 euro come 50000 euro in criptovalute, grazie al sistema messo in pratica da Eidoo, non si incontrano problemi (slippage dei prezzi, ecc.).
 
 Potete anche vendere le vostre criptovalute e ottenere un bonifico sul vostro conto corrente, operazione che in gergo si chiama *cash out*.
 
