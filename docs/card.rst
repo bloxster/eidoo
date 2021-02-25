@@ -1,7 +1,7 @@
 Carta di Credito Eidoo Card
 ==========================
 
-EidooCard è una carta di debito che consente a tutti gli utenti dell'Unione Europea di convertire facilmente i propri Bitcoin ed Ether in valuta fiat da spendere nei negozi che accettano carte di credito. La carta è direttamente collegata al portafoglio degli utenti tramite uno **smart contract non custodian** (quindi i fondi sono sempre in controllo dell’utente), offrendo un modo rapido e sicuro per spendere la propria criptovaluta. 
+EidooCard è una carta di debito che consente a tutti gli utenti dell'Unione Europea di convertire facilmente i propri Bitcoin ed Ether in valuta fiat da spendere nei negozi che accettano carte di credito. La carta è direttamente collegata al portafoglio degli utenti tramite uno **smart contract non custodian** (quindi i fondi sono sempre in controllo dell’utente), offrendo un modo rapido e sicuro per spendere le proprie criptovalute. 
 
 .. Warning::
     Per poter utilizzare questa funzionalità è necessario avere il `KYC <https://eidoo.readthedocs.io/it/latest/kyc.html#kyc-e-verifica-dellidentita-con-eidoo-id>`_ tier 2.
@@ -43,5 +43,8 @@ Si aprirà una schermata per mostrarvi quanti PNT sono necessari e da dove volet
     :width: 300px
     :align: center
 
-Una volta forniti i PNT Eidoo preparerà automaticamente una transazione, approvatela e la vostra carta di credito sarà stata ordinata. Controllate i social  
+Una volta forniti i PNT Eidoo preparerà automaticamente una transazione, approvatela e la vostra carta di credito sarà stata ordinata. 
+
+.. Note::
+    Attualmente le carte sono ancora in fase di test. Controllate i social di Eidoo per sapere quando le carte saranno distribuite agli utenti che ne hanno fatto richiesta.
  
