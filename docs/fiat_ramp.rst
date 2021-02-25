@@ -14,7 +14,7 @@ Eidoo permette anche l’acquisto di **DAI** tramite bonifico, permettendo agli 
 Acquisto di criptovalute con bonifico bancario
 ----------------------------------------------
 
-Il servizio Instant SEPA è disponibile soltanto per le stablecoins USD Tether e USD Coin (USDT, USDC) ed è attivo dal Lunedì al Venerdì dalle 9:00 alle 17:00.  Tutti gli altri token (Bitcoin, Wrapped BTC, Ether, Litecoin) sono acquistabili tramite normale bonifico bancario.
+Il servizio Instant SEPA è disponibile soltanto per le stablecoins USD Tether e USD Coin (USDT, USDC) ed è attivo dal Lunedì al Venerdì dalle 9:00 alle 17:00.  Tutti gli altri token (Bitcoin, Wrapped BTC, Ether, Litecoin) sono acquistabili tramite normale bonifico bancario SEPA.
 
 Dalla schermata principale scegliete il tasto “**+ COMPRA**”.
 
@@ -50,7 +50,7 @@ Cliccando sul tasto "**CONDIVIDI DETTAGLI**" potrete spedirvi facilmente i dati 
  
 Tenete presente che:
 
-•	Commissioni bonifico SEPA allo 0%, commissioni per ISTANT SEPA dell’1%.
+•	Commissioni bonifico SEPA e ISTANT SEPA dell’1%.
 •	Sarà utilizzato un tasso di cambio preso da `Cryptocompare <https://www.cryptocompare.com/>`_ nelle successive 24 ore dalla ricezione del bonifico.
 •	I bonifici bancari impiegano mediamente 1-3 giorni lavorativi.
 •	Sono accettati solo bonifici in euro e l’acquisto minimo è di 50 euro.
@@ -61,7 +61,7 @@ Queste ed altre condizioni sono elencate scorrendo in basso la pagina del bonifi
 Acquisto con carta di credito
 -----------------------------
 
-Acquistare con carta di credito è quasi istantaneo ma il rovescio della medaglia è che viene utilizzato il circuito Simplex che si riserva una commissione variabile dal 10 al 15%.
+Acquistare criptovalute su Eidoo con carta di credito è istantaneo, ma le commissioni sono rilevanti. Viene utilizzato il circuito Simplex che si riserva una commissione del 5% o minimo di 10 $, più un altro spread del 3%. In rari casi è realmente necessario acquistare con carta di credito, è sempre consigliato acquistare con bonifico SEPA o Instant SEPA.
 
 Nel caso decidiate di procedere la schermata che vi apparirà sarà quella dell’importo che volete acquistare, e man mano che inserirete l’importo desiderato apparirà anche il cambio. 
 
