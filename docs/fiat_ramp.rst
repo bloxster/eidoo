@@ -51,7 +51,7 @@ Cliccando sul tasto "**CONDIVIDI DETTAGLI**" potrete spedirvi facilmente i dati 
 Tenete presente che:
 
 •	Commissioni bonifico SEPA e ISTANT SEPA dell’1%.
-•	Sarà utilizzato un tasso di cambio preso da `Cryptocompare <https://www.cryptocompare.com/>`_ nelle successive 24 ore dalla ricezione del bonifico.
+•	Viene utilizzato il tasso di cambio preso da `Cryptocompare <https://www.cryptocompare.com/>`_ nelle successive 24 ore dalla ricezione del bonifico.
 •	I bonifici bancari impiegano mediamente 1-3 giorni lavorativi.
 •	Sono accettati solo bonifici in euro e l’acquisto minimo è di 50 euro.
 •	Bonifici superiori a 500k euro richiedono il KYC Tier 3.
