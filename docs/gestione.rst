@@ -238,3 +238,21 @@ Scorrete verso destra la criptovaluta o il token che non vi interessa e cliccate
  
 Per ripristinare un token nascosto andate nel menu delle `impostazioni <https://eidoo.readthedocs.io/it/latest/impostazioni.html#impostazioni-avanzate>`_ in basso a destra dalla schermata iniziale e “**asset nascosti**”.
 
+Come velocizzare o annullare una transazione di Ethereum con Eidoo
+-------------------------------------------------------------------
+
+	
+24/04/2021 alle 9:08 pm#7314Modifica | Sposta | Dividi | Cestino | Spam | Non approvare | Rispondi
+
+A volte succede che una transazione sul network di Ethereum rimanga in *pending*, cioè non è ancora stata inclusa in un blocco perchè il gas price non è in linea con quello delle ultime 24 ore. Per cancellare una transazione occorre fare il reset del *nonce* e ripetere la transazione con priorità settata ad High.
+
+Per resettare il nonce bisogna fare un *soft reset* dell’app in questo modo:
+* Accedere al menu "**Altro**" (ultimo pulsante a destra nella barra in basso);
+* Scegliere su “**Resetta applicazione**” e selezionare solo la prima voce “**Cancella i dati personalizzati dei token**”;
+* Chiudere l'applicazione di Eidoo;
+* Aprire nuovamente l'applicazione di Eidoo;
+* Ripetere la transazione utilizzando il gas price settato su **High**
+
+In questo modo la transazione che vogliamo velocizzare verrà sostituita da una nuova. 
+
+Nel caso in cui invece di velocizzare una transazione si voglia cancellarla, si possono inviare 0 ETH a se stessi.
