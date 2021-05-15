@@ -241,16 +241,16 @@ Per ripristinare un token nascosto andate nel menu delle `impostazioni <https://
 Come velocizzare o annullare una transazione di Ethereum con Eidoo
 -------------------------------------------------------------------
 
-A volte succede che una transazione sul network di Ethereum rimanga in *pending*. Ciò significa che non è ancora stata inclusa in un blocco in quanto il *gas price* non è sufficiente. Per cancellare la transazione occorre fare il reset del *nonce* e ripetere la transazione con priorità più alta.
+A volte succede che una transazione sul network di Ethereum rimanga in *pending*. Ciò significa che non è ancora stata inclusa in un blocco in quanto il *gas price* non è sufficiente. Per cancellare la transazione occorre fare il reset del *nonce* (il numero progressivo di transazione del vostro wallet) e ripetere la transazione con priorità più alta.
 
 Procedete in questo modo:
 
-* Accedere al menu "**Altro**" (ultimo pulsante a destra nella barra in basso);
-* Scegliere su “**Resetta applicazione**” e selezionare solo la prima voce “**Cancella i dati personalizzati dei token**”;
-* Chiudere l'applicazione di Eidoo;
-* Aprire nuovamente l'applicazione di Eidoo;
-* Ripetere la transazione utilizzando il *gas price* settato su **High**.
+* Accedete al menu "**Altro**" (ultimo pulsante a destra nella barra in basso);
+* Scegliete “**Resetta applicazione**” e selezionate solo la prima voce “**Cancella i dati personalizzati dei token**”;
+* Chiudete l'applicazione di Eidoo;
+* Aprite nuovamente l'applicazione di Eidoo;
+* Ripetete la transazione utilizzando il *gas price* settato su **High**.
 
-In questo modo la transazione che vogliamo velocizzare verrà sostituita da una nuova, sempre ammesso che nel frattempo la transazione originale non sia stata autorizzata. 
+In questo modo la transazione originale verrà sostituita da una nuova ma con lo stesso *nonce*, sempre ammesso che nel frattempo non sia stata inclusa in un blocco. 
 
 Nel caso in cui invece di velocizzare una transazione si voglia cancellarla, si possono inviare 0 ETH a se stessi.
