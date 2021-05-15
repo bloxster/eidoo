@@ -251,6 +251,6 @@ Procedete in questo modo:
 * Aprire nuovamente l'applicazione di Eidoo;
 * Ripetere la transazione utilizzando il *gas price* settato su **High**
 
-In questo modo la transazione che vogliamo velocizzare verrà sostituita da una nuova, sempre ammesso che nel frattempo non sia stata autorizzata. 
+In questo modo la transazione che vogliamo velocizzare verrà sostituita da una nuova, sempre ammesso che nel frattempo la transazione originale non sia stata autorizzata. 
 
 Nel caso in cui invece di velocizzare una transazione si voglia cancellarla, si possono inviare 0 ETH a se stessi.
