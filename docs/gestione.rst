@@ -249,7 +249,7 @@ Procedete in questo modo:
 * Scegliere su “**Resetta applicazione**” e selezionare solo la prima voce “**Cancella i dati personalizzati dei token**”;
 * Chiudere l'applicazione di Eidoo;
 * Aprire nuovamente l'applicazione di Eidoo;
-* Ripetere la transazione utilizzando il *gas price* settato su **High**
+* Ripetere la transazione utilizzando il *gas price* settato su **High**.
 
 In questo modo la transazione che vogliamo velocizzare verrà sostituita da una nuova, sempre ammesso che nel frattempo la transazione originale non sia stata autorizzata. 
 
