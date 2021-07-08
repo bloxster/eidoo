@@ -22,8 +22,8 @@ https://www.eidoo.io
     
     🚫 Il team Eidoo non vi contatterà MAI in privato
     
-    🚫 NON condividere MAI il seed (la frase di ripristino di 12 parole)
+    🚫 NON condividete MAI il seed (la frase di ripristino di 12 parole)
     
     🚫 Il team Eidoo non vi proporrà MAI vendite private o bonus
     
-    🚫 Il team Eidoo non utilizzerà mai Google Docs o Google Forms
+    🚫 Il team Eidoo non utilizzerà MAI Google Docs o Google Forms
